@@ -1,0 +1,66 @@
+<view id="base" class="">
+
+<!-- Unnamed (图片) -->
+<view id="u539" class="ax_default image">
+  <image id="u539_img" class="img " src="images/派遣/u518.png"></image>
+  <view id="u539_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u540" class="ax_default box_1">
+  <image id="u540_img" class="img " src="images/派遣__体育区_/u524.svg"></image>
+  <view id="u540_text" class="text ">
+    <view><text>生活区<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u541" class="ax_default box_1">
+  <image id="u541_img" class="img " src="images/派遣/u520.svg"></image>
+  <view id="u541_text" class="text ">
+    <view><text>教学区<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u542" class="ax_default box_1">
+  <image id="u542_img" class="img " src="images/派遣/u521.svg"></image>
+  <view id="u542_text" class="text ">
+    <view><text>体育区<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u543" class="ax_default image">
+  <image id="u543_img" class="img " src="images/派遣__体育区_/u527.png"></image>
+  <view id="u543_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u544" class="ax_default button">
+  <image id="u544_img" class="img " src="images/派遣__体育区_/u528.svg"></image>
+  <view id="u544_text" class="text ">
+    <view><text>选择派遣角色：<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u545" class="ax_default primary_button">
+  <view id="u545_div" class=""></view>
+  <view id="u545_text" class="text ">
+    <view><text>开始派遣<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u546" class="ax_default _图片">
+  <image id="u546_img" class="img " src="images/设置页面/u129.png"></image>
+  <view id="u546_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+</view>

@@ -1,0 +1,308 @@
+<view id="base" class="">
+
+<!-- Unnamed (矩形) -->
+<view id="u86" class="ax_default box_1">
+  <view id="u86_div" class=""></view>
+  <view id="u86_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u87" class="ax_default _图片">
+  <image id="u87_img" class="img " src="images/设置页面/u87.png"></image>
+  <view id="u87_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u88" class="ax_default _图片">
+  <image id="u88_img" class="img " src="images/设置页面/u88.png"></image>
+  <view id="u88_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u89" class="ax_default label">
+  <view id="u89_div" class=""></view>
+  <view id="u89_text" class="text ">
+    <view><text>声音管理<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u90" class="ax_default" data-left="235" data-top="107" data-width="371" data-height="23" layer-opacity="1">
+
+  <!-- 空白按钮1 (组合) -->
+  <view id="u91" class="ax_default" data-label="空白按钮1" data-left="284" data-top="108" data-width="41" data-height="22" layer-opacity="1">
+
+    <!-- Unnamed (椭圆) -->
+    <view id="u92" class="ax_default ellipse">
+      <image id="u92_img" class="img " src="images/设置页面/u92.svg"></image>
+      <view id="u92_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+
+    <!-- Unnamed (椭圆) -->
+    <view id="u93" class="ax_default ellipse">
+      <image id="u93_img" class="img " src="images/设置页面/u93.svg"></image>
+      <view id="u93_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+  </view>
+
+  <!-- 绿色按钮1 (组合) -->
+  <view id="u94" class="ax_default ax_default_hidden" data-label="绿色按钮1" style="display:none; visibility: hidden" data-left="284" data-top="108" data-width="41" data-height="22" layer-opacity="1">
+
+    <!-- Unnamed (椭圆) -->
+    <view id="u95" class="ax_default ellipse">
+      <image id="u95_img" class="img " src="images/设置页面/u95.svg"></image>
+      <view id="u95_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+
+    <!-- Unnamed (椭圆) -->
+    <view id="u96" class="ax_default ellipse">
+      <image id="u96_img" class="img " src="images/设置页面/u96.svg"></image>
+      <view id="u96_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u97" class="ax_default label">
+    <view id="u97_div" class=""></view>
+    <view id="u97_text" class="text ">
+      <view><text>音效<text></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u98" class="ax_default label">
+    <view id="u98_div" class=""></view>
+    <view id="u98_text" class="text ">
+      <view><text>音乐<text></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u99" class="ax_default label">
+    <view id="u99_div" class=""></view>
+    <view id="u99_text" class="text ">
+      <view><text>震动<text></view>
+    </view>
+  </view>
+
+  <!-- 空白按钮2 (组合) -->
+  <view id="u100" class="ax_default" data-label="空白按钮2" data-left="414" data-top="107" data-width="41" data-height="22" layer-opacity="1">
+
+    <!-- Unnamed (椭圆) -->
+    <view id="u101" class="ax_default ellipse">
+      <image id="u101_img" class="img " src="images/设置页面/u92.svg"></image>
+      <view id="u101_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+
+    <!-- Unnamed (椭圆) -->
+    <view id="u102" class="ax_default ellipse">
+      <image id="u102_img" class="img " src="images/设置页面/u93.svg"></image>
+      <view id="u102_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+  </view>
+
+  <!-- 绿色按钮2 (组合) -->
+  <view id="u103" class="ax_default ax_default_hidden" data-label="绿色按钮2" style="display:none; visibility: hidden" data-left="414" data-top="107" data-width="41" data-height="22" layer-opacity="1">
+
+    <!-- Unnamed (椭圆) -->
+    <view id="u104" class="ax_default ellipse">
+      <image id="u104_img" class="img " src="images/设置页面/u104.svg"></image>
+      <view id="u104_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+
+    <!-- Unnamed (椭圆) -->
+    <view id="u105" class="ax_default ellipse">
+      <image id="u105_img" class="img " src="images/设置页面/u105.svg"></image>
+      <view id="u105_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+  </view>
+
+  <!-- 空白按钮3 (组合) -->
+  <view id="u106" class="ax_default" data-label="空白按钮3" data-left="565" data-top="107" data-width="41" data-height="22" layer-opacity="1">
+
+    <!-- Unnamed (椭圆) -->
+    <view id="u107" class="ax_default ellipse">
+      <image id="u107_img" class="img " src="images/设置页面/u92.svg"></image>
+      <view id="u107_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+
+    <!-- Unnamed (椭圆) -->
+    <view id="u108" class="ax_default ellipse">
+      <image id="u108_img" class="img " src="images/设置页面/u93.svg"></image>
+      <view id="u108_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+  </view>
+
+  <!-- 绿色按钮3 (组合) -->
+  <view id="u109" class="ax_default ax_default_hidden" data-label="绿色按钮3" style="display:none; visibility: hidden" data-left="565" data-top="107" data-width="41" data-height="22" layer-opacity="1">
+
+    <!-- Unnamed (椭圆) -->
+    <view id="u110" class="ax_default ellipse">
+      <image id="u110_img" class="img " src="images/设置页面/u104.svg"></image>
+      <view id="u110_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+
+    <!-- Unnamed (椭圆) -->
+    <view id="u111" class="ax_default ellipse">
+      <image id="u111_img" class="img " src="images/设置页面/u105.svg"></image>
+      <view id="u111_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u112" class="ax_default label">
+  <view id="u112_div" class=""></view>
+  <view id="u112_text" class="text ">
+    <view><text>帮助文档<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u113" class="ax_default label">
+  <view id="u113_div" class=""></view>
+  <view id="u113_text" class="text ">
+    <view><text>反馈问题<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u114" class="ax_default primary_button">
+  <view id="u114_div" class=""></view>
+  <view id="u114_text" class="text ">
+    <view><text>获取帮助<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u115" class="ax_default primary_button">
+  <view id="u115_div" class=""></view>
+  <view id="u115_text" class="text ">
+    <view><text>联系我们<text></view>
+  </view>
+</view>
+
+<!-- 反馈框 (组合) -->
+<view id="u116" class="ax_default ax_default_hidden" data-label="反馈框" style="display:none; visibility: hidden" data-left="269" data-top="83" data-width="303" data-height="200" layer-opacity="1">
+
+  <!-- Unnamed (组合) -->
+  <view id="u117" class="ax_default" data-left="269" data-top="83" data-width="303" data-height="200" layer-opacity="1">
+
+    <!-- Unnamed (矩形) -->
+    <view id="u118" class="ax_default _文本段落">
+      <view id="u118_div" class=""></view>
+      <view id="u118_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+
+    <!-- Unnamed (文本域) -->
+    <view id="u119" class="ax_default text_area">
+      <view id="u119_div" class=""></view>
+      <rich-text id="u119_input" class="u119_input"></rich-text>
+    </view>
+
+    <!-- Unnamed (矩形) -->
+    <view id="u120" class="ax_default label">
+      <view id="u120_div" class=""></view>
+      <view id="u120_text" class="text ">
+        <view><text>请输入您的问题<text></view>
+      </view>
+    </view>
+
+    <!-- Unnamed (矩形) -->
+    <view id="u121" class="ax_default html_button">
+      <view id="u121_div" class=""></view>
+      <view id="u121_text" class="text ">
+        <view><text>提交<text></view>
+      </view>
+    </view>
+  </view>
+</view>
+
+<!-- 帮助框 (组合) -->
+<view id="u122" class="ax_default ax_default_hidden" data-label="帮助框" style="display:none; visibility: hidden" data-left="269" data-top="80" data-width="303" data-height="200" layer-opacity="1">
+
+  <!-- Unnamed (组合) -->
+  <view id="u123" class="ax_default" data-left="269" data-top="80" data-width="303" data-height="200" layer-opacity="1">
+
+    <!-- Unnamed (矩形) -->
+    <view id="u124" class="ax_default _文本段落">
+      <view id="u124_div" class=""></view>
+      <view id="u124_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+
+    <!-- Unnamed (矩形) -->
+    <view id="u125" class="ax_default box_1">
+      <view id="u125_div" class=""></view>
+      <view id="u125_text" class="text ">
+        <view><text>xxxxxxxxxxxxxxxxxxx<text></view><view><text>xxxxxxxxxxxxxxxxxxx<text></view><view><text>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx<text></view><view><text>xxxxxxxxxxxxxxx<text></view>
+      </view>
+    </view>
+
+    <!-- Unnamed (矩形) -->
+    <view id="u126" class="ax_default label">
+      <view id="u126_div" class=""></view>
+      <view id="u126_text" class="text ">
+        <view><text>帮助文档<text></view>
+      </view>
+    </view>
+
+    <!-- 确定 (矩形) -->
+    <view id="u127" class="ax_default html_button" data-label="确定">
+      <view id="u127_div" class=""></view>
+      <view id="u127_text" class="text ">
+        <view><text>确定<text></view>
+      </view>
+    </view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u128" class="ax_default _图片">
+  <image id="u128_img" class="img " src="images/设置页面/u128.png"></image>
+  <view id="u128_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u129" class="ax_default _图片">
+  <image id="u129_img" class="img " src="images/设置页面/u129.png"></image>
+  <view id="u129_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+</view>

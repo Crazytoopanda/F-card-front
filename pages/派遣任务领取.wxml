@@ -1,0 +1,210 @@
+<view id="base" class="">
+
+<!-- Unnamed (图片) -->
+<view id="u601" class="ax_default image">
+  <image id="u601_img" class="img " src="images/任务页面/u547.jpg"></image>
+  <view id="u601_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u602" class="ax_default image">
+  <image id="u602_img" class="img " src="images/任务页面/u549.png"></image>
+  <view id="u602_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u603" class="ax_default image">
+  <image id="u603_img" class="img " src="images/任务页面/u550.png"></image>
+  <view id="u603_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u604" class="ax_default image">
+  <image id="u604_img" class="img " src="images/任务页面/u551.png"></image>
+  <view id="u604_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- 蓝 (椭圆) -->
+<view id="u605" class="ax_default ellipse" data-label="蓝">
+  <image id="u605_img" class="img " src="images/任务页面/蓝_u552.svg"></image>
+  <view id="u605_text" class="text ">
+    <view><text>每日任务<text></view>
+  </view>
+</view>
+
+<!-- 黄 (椭圆) -->
+<view id="u606" class="ax_default ellipse" data-label="黄">
+  <image id="u606_img" class="img " src="images/任务页面/蓝_u552.svg"></image>
+  <view id="u606_text" class="text ">
+    <view><text>派遣任务<text></view>
+  </view>
+</view>
+
+<!-- 绿 (椭圆) -->
+<view id="u607" class="ax_default ellipse" data-label="绿">
+  <image id="u607_img" class="img " src="images/任务页面/蓝_u552.svg"></image>
+  <view id="u607_text" class="text ">
+    <view><text>？？？<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u608" class="ax_default image">
+  <image id="u608_img" class="img " src="images/任务页面/u555.png"></image>
+  <view id="u608_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- 任务列表 (椭圆) -->
+<view id="u609" class="ax_default box_1" data-label="任务列表">
+  <image id="u609_img" class="img " src="images/任务页面/任务列表_u556.svg"></image>
+  <view id="u609_text" class="text ">
+    <view><text>任务列表<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (斜角矩形) -->
+<view id="u610" class="ax_default button">
+  <image id="u610_img" class="img " src="images/每日任务领取/u584.svg"></image>
+  <view id="u610_text" class="text ">
+    <view><text>领取任务奖励<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (斜角矩形) -->
+<view id="u611" class="ax_default button">
+  <image id="u611_img" class="img " src="images/每日任务领取/u585.svg"></image>
+  <view id="u611_text" class="text ">
+    <view><text>领取任务奖励<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (斜角矩形) -->
+<view id="u612" class="ax_default button">
+  <image id="u612_img" class="img " src="images/任务页面/u558.svg"></image>
+  <view id="u612_text" class="text ">
+    <view><text>领取任务奖励<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u613" class="ax_default sticky_1">
+  <view id="u613_div" class=""></view>
+  <view id="u613_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u614" class="ax_default sticky_3">
+  <view id="u614_div" class=""></view>
+  <view id="u614_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u615" class="ax_default sticky_2">
+  <view id="u615_div" class=""></view>
+  <view id="u615_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u616" class="ax_default box_1">
+  <image id="u616_img" class="img " src="images/任务页面/u562.svg"></image>
+  <view id="u616_text" class="text ">
+    <view><text>任务详情<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u617" class="ax_default box_1">
+  <image id="u617_img" class="img " src="images/任务页面/u562.svg"></image>
+  <view id="u617_text" class="text ">
+    <view><text>任务详情<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u618" class="ax_default box_1">
+  <image id="u618_img" class="img " src="images/任务页面/u562.svg"></image>
+  <view id="u618_text" class="text ">
+    <view><text>任务详情<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u619" class="ax_default image">
+  <image id="u619_img" class="img " src="images/派遣__体育区_/u527.png"></image>
+  <view id="u619_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u620" class="ax_default primary_button">
+  <view id="u620_div" class=""></view>
+  <view id="u620_text" class="text ">
+    <view><text>确认<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u621" class="ax_default button">
+  <image id="u621_img" class="img " src="images/每日任务领取/u595.svg"></image>
+  <view id="u621_text" class="text ">
+    <view><text>任务完成！<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u622" class="ax_default button">
+  <image id="u622_img" class="img " src="images/每日任务领取/u597.svg"></image>
+  <view id="u622_text" class="text ">
+    <view><text>+10<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u623" class="ax_default button">
+  <image id="u623_img" class="img " src="images/每日任务领取/u596.svg"></image>
+  <view id="u623_text" class="text ">
+    <view><text>+50<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u624" class="ax_default image">
+  <image id="u624_img" class="img " src="images/主界面/u45.png"></image>
+  <view id="u624_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u625" class="ax_default image">
+  <image id="u625_img" class="img " src="images/主界面/u50.png"></image>
+  <view id="u625_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u626" class="ax_default image">
+  <image id="u626_img" class="img " src="images/任务页面/u548.png"></image>
+  <view id="u626_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+</view>

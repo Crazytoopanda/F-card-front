@@ -1,0 +1,226 @@
+<view id="base" class="">
+
+<!-- Unnamed (图片) -->
+<view id="u547" class="ax_default image">
+  <image id="u547_img" class="img " src="images/任务页面/u547.jpg"></image>
+  <view id="u547_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u548" class="ax_default image">
+  <image id="u548_img" class="img " src="images/任务页面/u548.png"></image>
+  <view id="u548_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u549" class="ax_default image">
+  <image id="u549_img" class="img " src="images/任务页面/u549.png"></image>
+  <view id="u549_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u550" class="ax_default image">
+  <image id="u550_img" class="img " src="images/任务页面/u550.png"></image>
+  <view id="u550_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u551" class="ax_default image">
+  <image id="u551_img" class="img " src="images/任务页面/u551.png"></image>
+  <view id="u551_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- 蓝 (椭圆) -->
+<view id="u552" class="ax_default ellipse" data-label="蓝">
+  <image id="u552_img" class="img " src="images/任务页面/蓝_u552.svg"></image>
+  <view id="u552_text" class="text ">
+    <view><text>每日任务<text></view>
+  </view>
+</view>
+
+<!-- 黄 (椭圆) -->
+<view id="u553" class="ax_default ellipse" data-label="黄">
+  <image id="u553_img" class="img " src="images/任务页面/蓝_u552.svg"></image>
+  <view id="u553_text" class="text ">
+    <view><text>派遣任务<text></view>
+  </view>
+</view>
+
+<!-- 绿 (椭圆) -->
+<view id="u554" class="ax_default ellipse" data-label="绿">
+  <image id="u554_img" class="img " src="images/任务页面/蓝_u552.svg"></image>
+  <view id="u554_text" class="text ">
+    <view><text>？？？<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u555" class="ax_default image">
+  <image id="u555_img" class="img " src="images/任务页面/u555.png"></image>
+  <view id="u555_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- 任务列表 (椭圆) -->
+<view id="u556" class="ax_default box_1" data-label="任务列表">
+  <image id="u556_img" class="img " src="images/任务页面/任务列表_u556.svg"></image>
+  <view id="u556_text" class="text ">
+    <view><text>任务列表<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (斜角矩形) -->
+<view id="u557" class="ax_default button">
+  <image id="u557_img" class="img " src="images/任务页面/u557.svg"></image>
+  <view id="u557_text" class="text ">
+    <view><text>领取<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (斜角矩形) -->
+<view id="u558" class="ax_default button">
+  <image id="u558_img" class="img " src="images/任务页面/u558.svg"></image>
+  <view id="u558_text" class="text ">
+    <view><text>领取任务奖励<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u559" class="ax_default sticky_1">
+  <view id="u559_div" class=""></view>
+  <view id="u559_text" class="text ">
+    <view><text>1.完成3次派遣<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u560" class="ax_default sticky_3">
+  <view id="u560_div" class=""></view>
+  <view id="u560_text" class="text ">
+    <view><text>（待定）<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u561" class="ax_default sticky_2">
+  <view id="u561_div" class=""></view>
+  <view id="u561_text" class="text ">
+    <view><text>1.完成1次对战<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u562" class="ax_default box_1">
+  <image id="u562_img" class="img " src="images/任务页面/u562.svg"></image>
+  <view id="u562_text" class="text ">
+    <view><text>任务详情<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u563" class="ax_default box_1">
+  <image id="u563_img" class="img " src="images/任务页面/u562.svg"></image>
+  <view id="u563_text" class="text ">
+    <view><text>任务详情<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u564" class="ax_default box_1">
+  <image id="u564_img" class="img " src="images/任务页面/u562.svg"></image>
+  <view id="u564_text" class="text ">
+    <view><text>任务详情<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u565" class="ax_default sticky_2">
+  <view id="u565_div" class=""></view>
+  <view id="u565_text" class="text ">
+    <view><text>3.完成3次对战<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u566" class="ax_default sticky_2">
+  <view id="u566_div" class=""></view>
+  <view id="u566_text" class="text ">
+    <view><text>2.完成2次对战<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (斜角矩形) -->
+<view id="u567" class="ax_default button">
+  <image id="u567_img" class="img " src="images/任务页面/u557.svg"></image>
+  <view id="u567_text" class="text ">
+    <view><text>领取<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (斜角矩形) -->
+<view id="u568" class="ax_default button">
+  <image id="u568_img" class="img " src="images/任务页面/u557.svg"></image>
+  <view id="u568_text" class="text ">
+    <view><text>领取<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u569" class="ax_default sticky_1">
+  <view id="u569_div" class=""></view>
+  <view id="u569_text" class="text ">
+    <view><text>1.完成3次派遣<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u570" class="ax_default sticky_1">
+  <view id="u570_div" class=""></view>
+  <view id="u570_text" class="text ">
+    <view><text>1.完成3次派遣<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (斜角矩形) -->
+<view id="u571" class="ax_default button">
+  <image id="u571_img" class="img " src="images/任务页面/u571.svg"></image>
+  <view id="u571_text" class="text ">
+    <view><text>领取<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (斜角矩形) -->
+<view id="u572" class="ax_default button">
+  <image id="u572_img" class="img " src="images/任务页面/u571.svg"></image>
+  <view id="u572_text" class="text ">
+    <view><text>领取<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (斜角矩形) -->
+<view id="u573" class="ax_default button">
+  <image id="u573_img" class="img " src="images/任务页面/u571.svg"></image>
+  <view id="u573_text" class="text ">
+    <view><text>领取<text></view>
+  </view>
+</view>
+
+<!-- Unnamed (斜角矩形) -->
+<view id="u574" class="ax_default button">
+  <image id="u574_img" class="img " src="images/任务页面/u574.svg"></image>
+  <view id="u574_text" class="text ">
+    <view><text>进入派遣<text></view>
+  </view>
+</view>
+</view>

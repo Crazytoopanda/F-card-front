@@ -1,0 +1,432 @@
+<view id="base" class="">
+
+<!-- Unnamed (图片) -->
+<view id="u26" class="ax_default _图片">
+  <image id="u26_img" class="img " src="../../../images/加载界面/u1.png"></image>
+  <view id="u26_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u27" class="ax_default _图片">
+  <image id="u27_img" class="img " src="../../../images/加载界面/u2.png"></image>
+  <view id="u27_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u28" class="ax_default" data-left="676" data-top="15" data-width="147" data-height="47" layer-opacity="1">
+
+  <!-- Unnamed (矩形) -->
+  <view id="u29" class="ax_default box_1">
+    <view id="u29_div" class=""></view>
+    <view id="u29_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (垂直线) -->
+  <view id="u30" class="ax_default line">
+    <image id="u30_img" class="img " src="../../../images/主界面/u30.svg"></image>
+    <view id="u30_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (组合) -->
+  <view id="u31" class="ax_default" data-left="700" data-top="35" data-width="29" data-height="11" layer-opacity="1">
+
+    <!-- Unnamed (椭圆) -->
+    <view id="u32" class="ax_default ellipse selected">
+      <image id="u32_img" class="img " src="../../../images/主界面/u32.svg"></image>
+      <view id="u32_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+
+    <!-- Unnamed (椭圆) -->
+    <view id="u33" class="ax_default ellipse selected">
+      <image id="u33_img" class="img " src="../../../images/主界面/u33.svg"></image>
+      <view id="u33_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+
+    <!-- Unnamed (椭圆) -->
+    <view id="u34" class="ax_default ellipse selected">
+      <image id="u34_img" class="img " src="../../../images/主界面/u32.svg"></image>
+      <view id="u34_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+  </view>
+
+  <!-- Unnamed (组合) -->
+  <view id="u35" class="ax_default" data-left="777" data-top="27" data-width="26" data-height="26" layer-opacity="1">
+
+    <!-- Unnamed (椭圆) -->
+    <view id="u36" class="ax_default ellipse">
+      <image id="u36_img" class="img " src="../../../images/主界面/u36.svg"></image>
+      <view id="u36_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+
+    <!-- Unnamed (椭圆) -->
+    <view id="u37" class="ax_default ellipse">
+      <image id="u37_img" class="img " src="../../../images/主界面/u37.svg"></image>
+      <view id="u37_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u38" class="ax_default _图片">
+  <image id="u38_img" class="img " src="../../../images/主界面/u38.svg"></image>
+  <view id="u38_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u39" class="ax_default" data-left="0" data-top="0" data-width="0" data-height="0" layer-opacity="1">
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u40" class="ax_default _图片">
+  <image id="u40_img" class="img " src="../../../images/主界面/u40.png"></image>
+  <view id="u40_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u41" class="ax_default _图片">
+  <image id="u41_img" class="img " src="../../../images/主界面/u41.png"></image>
+  <view id="u41_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u42" class="ax_default _图片">
+  <image id="u42_img" class="img " src="../../../images/主界面/u42.png"></image>
+  <view id="u42_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u43" class="ax_default" data-left="210" data-top="32" data-width="210" data-height="47" layer-opacity="1">
+
+  <!-- Unnamed (图片) -->
+  <view id="u44" class="ax_default _图片">
+    <image id="u44_img" class="img " src="../../../images/主界面/u44.png"></image>
+    <view id="u44_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u45" class="ax_default _图片">
+    <image id="u45_img" class="img " src="../../../images/主界面/u45.png"></image>
+    <view id="u45_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u46" class="ax_default _段落">
+    <view id="u46_div" class=""></view>
+    <view id="u46_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u47" class="ax_default _段落">
+    <view id="u47_div" class=""></view>
+    <view id="u47_text" class="text ">
+      <view><text>500</text></view>
+    </view>
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u48" class="ax_default" data-left="439" data-top="32" data-width="211" data-height="47" layer-opacity="1">
+
+  <!-- Unnamed (图片) -->
+  <view id="u49" class="ax_default _图片">
+    <image id="u49_img" class="img " src="../../../images/主界面/u44.png"></image>
+    <view id="u49_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u50" class="ax_default _图片">
+    <image id="u50_img" class="img " src="../../../images/主界面/u50.png"></image>
+    <view id="u50_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u51" class="ax_default label">
+  <view id="u51_div" class=""></view>
+  <view id="u51_text" class="text ">
+    <view><text>     昵称</text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u52" class="ax_default label">
+  <view id="u52_div" class=""></view>
+  <view id="u52_text" class="text ">
+    <view><text>    学院</text></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u53" class="ax_default _图片">
+  <image id="u53_img" class="img " src="../../../images/主界面/u53.svg"></image>
+  <view id="u53_text" class="text ">
+    <view><text>派遣</text></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u54" class="ax_default _图片">
+  <image id="u54_img" class="img " src="../../../images/主界面/u54.svg"></image>
+  <view id="u54_text" class="text ">
+    <view><text>设置</text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u55" class="ax_default _段落">
+  <view id="u55_div" class=""></view>
+  <view id="u55_text" class="text ">
+    <view><text>500</text></view>
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u56" class="ax_default" data-left="160" data-top="112" data-width="252" data-height="200" layer-opacity="1">
+
+  <!-- Unnamed (矩形) -->
+  <view id="u57" class="ax_default _形状">
+    <image id="u57_img" class="img " src="../../../images/主界面/u57.svg"></image>
+    <view id="u57_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u58" class="ax_default _图片">
+    <image id="u58_img" class="img " src="../../../images/主界面/u58.svg"></image>
+    <view id="u58_text" class="text ">
+      <view><text>开始游戏</text></view>
+    </view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u59" class="ax_default _图片">
+  <image id="u59_img" class="img " src="../../../images/主界面/u59.svg"></image>
+  <view id="u59_text" class="text ">
+    <view><text>其他</text></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u60" class="ax_default _图片">
+  <image id="u60_img" class="img " src="../../../images/主界面/u59.svg"></image>
+  <view id="u60_text" class="text ">
+    <view><text>后续</text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u61" class="ax_default _形状">
+  <view id="u61_div" class=""></view>
+  <view id="u61_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u62" class="ax_default" data-left="480" data-top="148" data-width="195" data-height="38" layer-opacity="1">
+
+  <!-- Unnamed (图片) -->
+  <view id="u63" class="ax_default image">
+    <image id="u63_img" class="img " src="../../../images/主界面/u63.svg"></image>
+    <view id="u63_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u64" class="ax_default image">
+    <image id="u64_img" class="img " src="../../../images/主界面/u64.png"></image>
+    <view id="u64_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u65" class="ax_default image">
+    <image id="u65_img" class="img " src="../../../images/主界面/u65.jpg"></image>
+    <view id="u65_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u66" class="ax_default image">
+    <image id="u66_img" class="img " src="../../../images/主界面/u66.png"></image>
+    <view id="u66_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (文本框) -->
+  <view id="u67" class="ax_default text_field">
+    <view id="u67_div" class=""></view>
+    <input id="u67_input" type="text" value="计算机学院" class="u67_input"/>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u68" class="ax_default image">
+    <image id="u68_img" class="img " src="../../../images/主界面/u68.png"></image>
+    <view id="u68_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u69" class="ax_default" data-left="480" data-top="192" data-width="195" data-height="38" layer-opacity="1">
+
+  <!-- Unnamed (图片) -->
+  <view id="u70" class="ax_default image">
+    <image id="u70_img" class="img " src="../../../images/主界面/u63.svg"></image>
+    <view id="u70_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u71" class="ax_default image">
+    <image id="u71_img" class="img " src="../../../images/主界面/u64.png"></image>
+    <view id="u71_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (文本框) -->
+  <view id="u72" class="ax_default text_field">
+    <view id="u72_div" class=""></view>
+    <input id="u72_input" type="text" value="经济管理学院" class="u72_input"/>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u73" class="ax_default image">
+    <image id="u73_img" class="img " src="../../../images/主界面/u65.jpg"></image>
+    <view id="u73_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u74" class="ax_default image">
+    <image id="u74_img" class="img " src="../../../images/主界面/u74.png"></image>
+    <view id="u74_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u75" class="ax_default image">
+    <image id="u75_img" class="img " src="../../../images/主界面/u75.png"></image>
+    <view id="u75_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u76" class="ax_default" data-left="480" data-top="236" data-width="195" data-height="38" layer-opacity="1">
+
+  <!-- Unnamed (组合) -->
+  <view id="u77" class="ax_default" data-left="480" data-top="236" data-width="195" data-height="38" layer-opacity="1">
+
+    <!-- Unnamed (图片) -->
+    <view id="u78" class="ax_default image">
+      <image id="u78_img" class="img " src="../../../images/主界面/u78.svg"></image>
+      <view id="u78_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u79" class="ax_default image">
+    <image id="u79_img" class="img " src="../../../images/主界面/u64.png"></image>
+    <view id="u79_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (文本框) -->
+  <view id="u80" class="ax_default text_field">
+    <view id="u80_div" class=""></view>
+    <input id="u80_input" type="text" value="人文学院" class="u80_input"/>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u81" class="ax_default image">
+    <image id="u81_img" class="img " src="../../../images/主界面/u81.jpg"></image>
+    <view id="u81_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u82" class="ax_default image">
+    <image id="u82_img" class="img " src="../../../images/主界面/u82.png"></image>
+    <view id="u82_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u83" class="ax_default _段落">
+  <view id="u83_div" class=""></view>
+  <view id="u83_text" class="text ">
+    <view><text>院系排行榜</text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u84" class="ax_default _形状">
+  <view id="u84_div" class=""></view>
+  <view id="u84_text" class="text ">
+    <view><text>详情</text></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u85" class="ax_default _图片">
+  <image id="u85_img" class="img " src="../../../images/主界面/u85.svg"></image>
+  <view id="u85_text" class="text ">
+    <view><text>卡牌</text></view>
+  </view>
+</view>
+</view>

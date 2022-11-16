@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="60px" height="62px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter x="665px" y="325px" width="60px" height="62px" filterUnits="userSpaceOnUse" id="filter35">
+      <feOffset dx="5" dy="5" in="SourceAlpha" result="shadowOffsetInner" />
+      <feGaussianBlur stdDeviation="2.5" in="shadowOffsetInner" result="shadowGaussian" />
+      <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.34901960784313724 0  " in="shadowComposite" />
+    </filter>
+    <g id="widget36">
+      <image preserveAspectRatio="none" style="overflow:visible" width="50" height="52" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADEAAAAwCAYAAAC4wJK5AAAAVG5wVGMAAgIJAAAAAAAAAAAAAAAIAAAABgAAAAcAAAAGAAAAAAAAABYAAAAXAAAAFQAAABYAAAABAAAAAQAAAAEAAAAB/////wAAAAEAAAABAAAAAQAAAAHTvoN+AAAEhElEQVRo3u2aTUgrVxTH/3fGr/pBVBQD0yhi1aJI24hfMXYTlIJibXnabmoXXRQXhUdxZlz1a2VGi6Vd+HZddOFCaGvbJ4gQFTQPlQcVNSiKrxqxalAMPr8SnNtF3+TdaOJ78XNaclZz/vcccn+TM/feyQnwPzASaYIsy9kA7gGwUkqzAWQDyLzCHJ4A2AXwGMA4IeQ3u93uvREISZI+IYR8TiktuoWbO0UI+cZutz+8Foj29vb3eJ7/gVIq3EGl/Ekpvd/V1TV2aQhRFB8QQj5ltcTERBQUFKCkpARpaWlITU1FUlLSpWe5u7uLo6MjrK+vw+VyYWlpCaenp2fD2hRFeRARhCiKZkJIL4ByTUtPT4fNZoPZbAbHcTd264+Pj+F0OjEyMgKfz8cOfasoSnuoHD6UaLVaf2UBLBYLWltbYTKZQAi50fqJiYlBbm4uSktL4Xa7sbe3F5iG1WqNmZiYGHkhhCzL3wN4HwB4nkdjYyNqa2vB8/ytPgwJCQkwm83wer3Y2NjQ5Lerq6v/mpiYmAkLIUlSI4AezW9qakJVVdWdrf8cx6G4uBgejwdbW1ua/K7FYvnd6XT+HYg7k/eddlFRUYHKykpdbGbNzc0QhMDiSJ49rzgHIUnSRwByAcBgMKChoUE3O3JsbCxaWlrYki4XRfHNUN/EF9qFzWZDXFycro4WRqMRZrMZzNfRFgQhy3IJgNcAICUlBWVlZbo8I9XU1LDuB0EQlNJ3NKG4uPhG94GrWFZWFoxGo+YaJEkqZ8vJqo0UFhbq+sSan5/PlpSVhShha0/Plpn5/MBMKS1kIQIjycnJuoYwGAysK7AQgZnrbVUKtZOzTKE2u/+kRSGiEFGIKEQUIgoRhYhCRCEihzjSBL/fr+sJn5ycsO7TAAQhZFdTDw8PdQ1xcHDAuh72Hdulqdvb27qG2NzcZN1ZFmJcU5eXl3UNsbq6yr5jPwpAcBzn0Abm5+d1C7C3t4e1tbWAv7Ky8hzCbrePa/Xl8XgwNzenS4ixsTGoqqq5j/r7+0+DllhCSKd2PTg4yAbrwnZ2djA5OcmWknRun/D5fL0ANrWE0dFR3QCoqoqBgQG2gzT1rHqCIXp6eo4opfc1f2hoCC6XSxcQg4ODWFxcZKXPWCeoP+F0OuctFstbhJDXAcDlckEQBGRkZNwZgMPhgMPhYMtIVBSlPywEANTV1f3h9/s/BJCmqipmZmYQHx+PnJycW5283+9HX18fnE4nK/+oKIp8NjZkA66jo6NMVdWfAbyqaYIgoL6+Hnl5eTde/9PT0xgeHsb+/n5Ap5QOdHV1NYXKCdtFlGX5DUppL4CgfpcgCCgqKkJ+fj5MJtO1/IJ+fHwMt9uNhYUFzM7Owus994eCrxVF+Spc/gtboZIkfQygF8Ar4WKYVlRE5vP54PF4LgpZVlVV6u7u/uWioJfq54qiaOQ4ro1SKl4Ec432BMCXiqL89DLBETelJUmqBVCLf3sa5QjTC4/QvACmKKXjPM8/7OzsfBxJ8rV01js6Okov+RA/VRRl8aqf/w894H4jSiGjIAAAAABJRU5ErkJggg==" x="665px" y="325px" />
+    </g>
+  </defs>
+  <g transform="matrix(1 0 0 1 -665 -325 )">
+    <use xlink:href="#widget36" filter="url(#filter35)" />
+    <use xlink:href="#widget36" />
+  </g>
+</svg>

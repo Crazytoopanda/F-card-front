@@ -1,0 +1,376 @@
+<view id="base" class="">
+
+<!-- Unnamed (图片) -->
+<view id="u653" class="ax_default _图片">
+  <image id="u653_img" class="img " src="images/加载界面/u1.png"></image>
+  <view id="u653_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u654" class="ax_default _图片">
+  <image id="u654_img" class="img " src="images/加载界面/u2.png"></image>
+  <view id="u654_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (动态面板) -->
+<view id="u655" class="ax_default">
+  <view id="u655_state0" class="panel_state" data-label="状态 1" style="">
+    <view id="u655_state0_content" class="panel_state_content">
+
+      <!-- Unnamed (形状) -->
+      <view id="u656" class="ax_default icon">
+        <image id="u656_img" class="img " src="images/选择关卡_选择卡片_/u656.svg"></image>
+        <view id="u656_text" class="text ">
+          <view><text>第1关</text></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (形状) -->
+      <view id="u657" class="ax_default icon">
+        <image id="u657_img" class="img " src="images/选择关卡_选择卡片_/u657.svg"></image>
+        <view id="u657_text" class="text ">
+          <view><text>教学</text></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (形状) -->
+      <view id="u658" class="ax_default icon">
+        <image id="u658_img" class="img " src="images/选择关卡_选择卡片_/u658.svg"></image>
+        <view id="u658_text" class="text ">
+          <view><text>第2关</text></view>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view id="u655_state1" class="panel_state" data-label="状态 2" style="visibility: hidden;">
+    <view id="u655_state1_content" class="panel_state_content">
+
+      <!-- Unnamed (形状) -->
+      <view id="u659" class="ax_default icon">
+        <image id="u659_img" class="img " src="images/选择关卡_选择卡片_/u656.svg"></image>
+        <view id="u659_text" class="text ">
+          <view><text>第2关</text></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (形状) -->
+      <view id="u660" class="ax_default icon">
+        <image id="u660_img" class="img " src="images/选择关卡_选择卡片_/u660.svg"></image>
+        <view id="u660_text" class="text ">
+          <view><text>第1关</text></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (形状) -->
+      <view id="u661" class="ax_default icon">
+        <image id="u661_img" class="img " src="images/选择关卡_选择卡片_/u658.svg"></image>
+        <view id="u661_text" class="text ">
+          <view><text>第3关</text></view>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view id="u655_state2" class="panel_state" data-label="状态 10" style="visibility: hidden;">
+    <view id="u655_state2_content" class="panel_state_content">
+
+      <!-- Unnamed (形状) -->
+      <view id="u662" class="ax_default icon">
+        <image id="u662_img" class="img " src="images/选择关卡_选择卡片_/u656.svg"></image>
+        <view id="u662_text" class="text ">
+          <view><text>第3关</text></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (形状) -->
+      <view id="u663" class="ax_default icon">
+        <image id="u663_img" class="img " src="images/选择关卡_选择卡片_/u660.svg"></image>
+        <view id="u663_text" class="text ">
+          <view><text>第2关</text></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (形状) -->
+      <view id="u664" class="ax_default icon">
+        <image id="u664_img" class="img " src="images/选择关卡_选择卡片_/u658.svg"></image>
+        <view id="u664_text" class="text ">
+          <view><text>第4关</text></view>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view id="u655_state3" class="panel_state" data-label="状态 11" style="visibility: hidden;">
+    <view id="u655_state3_content" class="panel_state_content">
+
+      <!-- Unnamed (形状) -->
+      <view id="u665" class="ax_default icon">
+        <image id="u665_img" class="img " src="images/选择关卡_选择卡片_/u656.svg"></image>
+        <view id="u665_text" class="text ">
+          <view><text>第4关</text></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (形状) -->
+      <view id="u666" class="ax_default icon">
+        <image id="u666_img" class="img " src="images/选择关卡_选择卡片_/u660.svg"></image>
+        <view id="u666_text" class="text ">
+          <view><text>第3关</text></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (形状) -->
+      <view id="u667" class="ax_default icon">
+        <image id="u667_img" class="img " src="images/选择关卡_选择卡片_/u658.svg"></image>
+        <view id="u667_text" class="text ">
+          <view><text>第5关</text></view>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view id="u655_state4" class="panel_state" data-label="状态 3" style="visibility: hidden;">
+    <view id="u655_state4_content" class="panel_state_content">
+
+      <!-- Unnamed (形状) -->
+      <view id="u668" class="ax_default icon">
+        <image id="u668_img" class="img " src="images/选择关卡_选择卡片_/u656.svg"></image>
+        <view id="u668_text" class="text ">
+          <view><text>第5关</text></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (形状) -->
+      <view id="u669" class="ax_default icon">
+        <image id="u669_img" class="img " src="images/选择关卡_选择卡片_/u660.svg"></image>
+        <view id="u669_text" class="text ">
+          <view><text>第4关</text></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (形状) -->
+      <view id="u670" class="ax_default icon">
+        <image id="u670_img" class="img " src="images/选择关卡_选择卡片_/u658.svg"></image>
+        <view id="u670_text" class="text ">
+          <view><text>第6关</text></view>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view id="u655_state5" class="panel_state" data-label="状态 4" style="visibility: hidden;">
+    <view id="u655_state5_content" class="panel_state_content">
+
+      <!-- Unnamed (形状) -->
+      <view id="u671" class="ax_default icon">
+        <image id="u671_img" class="img " src="images/选择关卡_选择卡片_/u656.svg"></image>
+        <view id="u671_text" class="text ">
+          <view><text>第6关</text></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (形状) -->
+      <view id="u672" class="ax_default icon">
+        <image id="u672_img" class="img " src="images/选择关卡_选择卡片_/u660.svg"></image>
+        <view id="u672_text" class="text ">
+          <view><text>第5关</text></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (形状) -->
+      <view id="u673" class="ax_default icon">
+        <image id="u673_img" class="img " src="images/选择关卡_选择卡片_/u658.svg"></image>
+        <view id="u673_text" class="text ">
+          <view><text>第7关</text></view>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view id="u655_state6" class="panel_state" data-label="状态 5" style="visibility: hidden;">
+    <view id="u655_state6_content" class="panel_state_content">
+
+      <!-- Unnamed (形状) -->
+      <view id="u674" class="ax_default icon">
+        <image id="u674_img" class="img " src="images/选择关卡_选择卡片_/u656.svg"></image>
+        <view id="u674_text" class="text ">
+          <view><text>第7关</text></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (形状) -->
+      <view id="u675" class="ax_default icon">
+        <image id="u675_img" class="img " src="images/选择关卡_选择卡片_/u660.svg"></image>
+        <view id="u675_text" class="text ">
+          <view><text>第6关</text></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (形状) -->
+      <view id="u676" class="ax_default icon">
+        <image id="u676_img" class="img " src="images/选择关卡_选择卡片_/u658.svg"></image>
+        <view id="u676_text" class="text ">
+          <view><text>第8关</text></view>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view id="u655_state7" class="panel_state" data-label="状态 6" style="visibility: hidden;">
+    <view id="u655_state7_content" class="panel_state_content">
+
+      <!-- Unnamed (形状) -->
+      <view id="u677" class="ax_default icon">
+        <image id="u677_img" class="img " src="images/选择关卡_选择卡片_/u656.svg"></image>
+        <view id="u677_text" class="text ">
+          <view><text>第8关</text></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (形状) -->
+      <view id="u678" class="ax_default icon">
+        <image id="u678_img" class="img " src="images/选择关卡_选择卡片_/u660.svg"></image>
+        <view id="u678_text" class="text ">
+          <view><text>第7关</text></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (形状) -->
+      <view id="u679" class="ax_default icon">
+        <image id="u679_img" class="img " src="images/选择关卡_选择卡片_/u658.svg"></image>
+        <view id="u679_text" class="text ">
+          <view><text>第9关</text></view>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view id="u655_state8" class="panel_state" data-label="状态 7" style="visibility: hidden;">
+    <view id="u655_state8_content" class="panel_state_content">
+
+      <!-- Unnamed (形状) -->
+      <view id="u680" class="ax_default icon">
+        <image id="u680_img" class="img " src="images/选择关卡_选择卡片_/u656.svg"></image>
+        <view id="u680_text" class="text ">
+          <view><text>第9关</text></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (形状) -->
+      <view id="u681" class="ax_default icon">
+        <image id="u681_img" class="img " src="images/选择关卡_选择卡片_/u660.svg"></image>
+        <view id="u681_text" class="text ">
+          <view><text>第8关</text></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (形状) -->
+      <view id="u682" class="ax_default icon">
+        <image id="u682_img" class="img " src="images/选择关卡_选择卡片_/u682.svg"></image>
+        <view id="u682_text" class="text ">
+          <view><text>待续...</text></view>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>
+
+<!-- Unnamed (文本框) -->
+<view id="u683" class="ax_default _文本框">
+  <image id="u683_img" class="img " src="images/选择关卡_选择卡片_/u683.svg"></image>
+  <input id="u683_input" type="text" value="我的卡牌" class="u683_input"/>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u684" class="ax_default primary_button">
+  <image id="u684_img" class="img " src="images/选择关卡_选择卡片_/u684.svg"></image>
+  <view id="u684_text" class="text ">
+    <view><text>开始游戏</text></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u685" class="ax_default _图片">
+  <image id="u685_img" class="img " src="images/加载界面/u3.png"></image>
+  <view id="u685_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u686" class="ax_default _图片">
+  <image id="u686_img" class="img " src="images/选择关卡_选择卡片_/u686.png"></image>
+  <view id="u686_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u687" class="ax_default _图片">
+  <image id="u687_img" class="img " src="images/选择关卡_选择卡片_/u686.png"></image>
+  <view id="u687_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u688" class="ax_default _图片">
+  <image id="u688_img" class="img " src="images/选择关卡_选择卡片_/u686.png"></image>
+  <view id="u688_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (动态面板) -->
+<view id="u689" class="ax_default ax_default_hidden" style="display:none; visibility: hidden">
+  <view id="u689_state0" class="panel_state" data-label="状态 1" style="">
+    <view id="u689_state0_content" class="panel_state_content">
+
+      <!-- Unnamed (矩形) -->
+      <view id="u690" class="ax_default _形状">
+        <view id="u690_div" class=""></view>
+        <view id="u690_text" class="text " style="display:none; visibility: hidden">
+          <view></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (矩形) -->
+      <view id="u691" class="ax_default _段落">
+        <view id="u691_div" class=""></view>
+        <view id="u691_text" class="text ">
+          <view><text>是否退出？</text></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (矩形) -->
+      <view id="u692" class="ax_default _形状">
+        <view id="u692_div" class=""></view>
+        <view id="u692_text" class="text ">
+          <view><text>确认</text></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (矩形) -->
+      <view id="u693" class="ax_default _形状">
+        <view id="u693_div" class=""></view>
+        <view id="u693_text" class="text ">
+          <view><text>取消</text></view>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u694" class="ax_default _图片">
+  <image id="u694_img" class="img " src="images/任务页面/u548.png"></image>
+  <view id="u694_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (动态面板) -->
+<view id="u695" class="ax_default">
+  <view id="u695_state0" class="panel_state" data-label="状态 1" style="">
+    <view id="u695_state0_content" class="panel_state_content">
+    </view>
+  </view>
+</view>
+</view>

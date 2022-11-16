@@ -1,0 +1,138 @@
+﻿.ax_default {
+  font-family:"Arial Normal", "Arial", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:normal;
+  text-transform:none;
+}
+._段落 {
+  text-align:left;
+}
+._一级标题 {
+  font-family:"Arial Normal", "Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._二级标题 {
+  font-family:"Arial Normal", "Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._三级标题 {
+  font-family:"Arial Normal", "Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._四级标题 {
+  font-family:"Arial Normal", "Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._五级标题 {
+  font-family:"Arial Normal", "Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+._六级标题 {
+  font-family:"Arial Normal", "Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+._表单提示文本 {
+  color:#999999;
+}
+._表单禁用 {
+}
+.link_button {
+  color:#169BD5;
+}
+.image {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.new_style {
+  font-family:"华文琥珀 Oblique", "华文琥珀", sans-serif;
+  font-weight:400;
+  font-style:oblique;
+  font-size:36px;
+  color:#FEDA52;
+  text-align:left;
+}
+.icon {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.shape {
+}
+.box_2 {
+}
+.ellipse {
+}
+._流程图形状 {
+}
+._文本框 {
+  text-align:left;
+}
+._形状 {
+}
+._图片 {
+}
+.box_1 {
+}
+.line {
+}
+.placeholder {
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+.html_button {
+  text-align:center;
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
+._文本段落 {
+  text-align:left;
+}
+.sticky_1 {
+  text-align:left;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.button {
+}
+.sticky_3 {
+  text-align:left;
+}
+.sticky_2 {
+  text-align:left;
+}
+textarea, select, input, button { outline: none; }
