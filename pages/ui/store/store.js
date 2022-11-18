@@ -1,11 +1,14 @@
-// pages/主界面.js
+// pages/ui/store/store.js
 Page({
 
     /**
      * 页面的初始数据
      */
     data: {
-
+        hid_drawCard:true,
+        hid_help:true,
+        hid_lightBox1:true,
+        hid_lightBox2:true
     },
 
     /**
@@ -65,11 +68,33 @@ Page({
     },
 
     /**
-     * 用户点击商店
+     * 用户点击“走访”抽卡一次
      */
-    gotoStore:function() {
+    gotoMain:function(){
         wx.navigateTo({
-          url: '../../../pages/ui/store/store',
+            url: "../../../pages/ui/mainDisplay/mainDisplay",
         })
+
+    },
+    /**
+     * 用户点击“走访”抽卡一次
+     */
+    drawCard:function(){
+            this.setData({
+                hid_drawCard:!this.data.hid_drawCard,
+                hid_lightBox1:!this.data.hid_lightBox1
+            })
+    
+    },
+
+    /**
+     * 用户点击“？”显示帮助
+     */
+    viewHelp:function(){
+        this.setData({
+            hid_help:!this.data.hid_help,
+            hid_lightBox2:!this.data.hid_lightBox2
+        })
+
     }
 })

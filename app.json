@@ -1,7 +1,9 @@
 {
     "pages":[
+    "pages/ui/store/store",
     "pages/ui/mainDisplay/mainDisplay",
     "pages/battle/chooseLevel/chooseLevel"
+    
   ],
   "window":{
     "backgroundTextStyle":"light",
