@@ -1,0 +1,678 @@
+<view id="base" class="">
+
+<!-- Unnamed (图片) -->
+<view id="u886" class="ax_default _图片">
+  <image id="u886_img" class="img " src="../../../images/对战开始/u708.png"></image>
+  <view id="u886_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u887" class="ax_default _图片">
+  <image id="u887_img" class="img " src="../../../images/加载界面/u3.png"></image>
+  <view id="u887_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u888" class="ax_default _图片">
+  <image id="u888_img" class="img " src="../../../images/对战开始/u736.png"></image>
+  <view id="u888_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u889" class="ax_default _图片">
+  <image id="u889_img" class="img " src="../../../images/对战开始/u736.png"></image>
+  <view id="u889_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (椭圆) -->
+<view id="u890" class="ax_default _形状">
+  <image id="u890_img" class="img " src="../../../images/对战开始/u738.svg"></image>
+  <view id="u890_text" class="text ">
+    <view><text>玩家</text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u891" class="ax_default _段落">
+  <view id="u891_div" class=""></view>
+  <view id="u891_text" class="text ">
+    <view><text>我是帅哥</text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u892" class="ax_default _段落">
+  <view id="u892_div" class=""></view>
+  <view id="u892_text" class="text ">
+    <view><text>势均力敌的AI</text></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u893" class="ax_default _图片">
+  <image id="u893_img" class="img " src="../../../images/对战开始/u741.svg"></image>
+  <view id="u893_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u894" class="ax_default _图片">
+  <image id="u894_img" class="img " src="../../../images/用户信息界面/u133.png"></image>
+  <view id="u894_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u895" class="ax_default _图片">
+  <image id="u895_img" class="img " src="../../../images/用户信息界面/u133.png"></image>
+  <view id="u895_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u896" class="ax_default" data-left="18" data-top="160" data-width="118" data-height="106" layer-opacity="1">
+
+  <!-- Unnamed (图片) -->
+  <view id="u897" class="ax_default _图片">
+    <image id="u897_img" class="img " src="../../../images/选择关卡_选择卡片_/u698.png"></image>
+    <view id="u897_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u898" class="ax_default _图片">
+    <image id="u898_img" class="img " src="../../../images/选择关卡_选择卡片_/u698.png"></image>
+    <view id="u898_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u899" class="ax_default _图片">
+    <image id="u899_img" class="img " src="../../../images/选择关卡_选择卡片_/u698.png"></image>
+    <view id="u899_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u900" class="ax_default _图片">
+    <image id="u900_img" class="img " src="../../../images/选择关卡_选择卡片_/u698.png"></image>
+    <view id="u900_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u901" class="ax_default _图片">
+    <image id="u901_img" class="img " src="../../../images/选择关卡_选择卡片_/u698.png"></image>
+    <view id="u901_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u902" class="ax_default" data-left="227" data-top="123" data-width="386" data-height="138" layer-opacity="1">
+
+  <!-- Unnamed (图片) -->
+  <view id="u903" class="ax_default _图片">
+    <image id="u903_img" class="img " src="../../../images/出牌阶段/u903.svg"></image>
+    <view id="u903_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u904" class="ax_default _形状">
+    <image id="u904_img" class="img " src="../../../images/出牌阶段/u904.svg"></image>
+    <view id="u904_text" class="text ">
+      <view><text>空位</text></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u905" class="ax_default _形状">
+    <image id="u905_img" class="img " src="../../../images/出牌阶段/u904.svg"></image>
+    <view id="u905_text" class="text ">
+      <view><text>空位</text></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u906" class="ax_default _形状">
+    <image id="u906_img" class="img " src="../../../images/出牌阶段/u904.svg"></image>
+    <view id="u906_text" class="text ">
+      <view><text>空位</text></view>
+    </view>
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u907" class="ax_default ax_default_hidden" selectiongroup="卡牌" style="display:none; visibility: hidden" data-left="11" data-top="71" data-width="173" data-height="236" layer-opacity="1">
+
+  <!-- Unnamed (组合) -->
+  <view id="u908" class="ax_default" data-left="11" data-top="71" data-width="173" data-height="236" layer-opacity="1">
+
+    <!-- Unnamed (组合) -->
+    <view id="u909" class="ax_default" data-left="11" data-top="71" data-width="173" data-height="236" layer-opacity="1">
+
+      <!-- Unnamed (组合) -->
+      <view id="u910" class="ax_default" data-left="11" data-top="71" data-width="173" data-height="236" layer-opacity="1">
+
+        <!-- Unnamed (组合) -->
+        <view id="u911" class="ax_default" data-left="11" data-top="71" data-width="173" data-height="236" layer-opacity="1">
+
+          <!-- Unnamed (组合) -->
+          <view id="u912" class="ax_default" data-left="11" data-top="71" data-width="173" data-height="236" layer-opacity="1">
+
+            <!-- Unnamed (图片) -->
+            <view id="u913" class="ax_default _图片 selected">
+              <image id="u913_img" class="img " src="../../../images/商店抽卡/u224.jpg"></image>
+              <view id="u913_text" class="text " style="display:none; visibility: hidden">
+                <view></view>
+              </view>
+            </view>
+
+            <!-- Unnamed (图片) -->
+            <view id="u914" class="ax_default _图片 selected">
+              <image id="u914_img" class="img " src="../../../images/商店抽卡/u225.png"></image>
+              <view id="u914_text" class="text " style="display:none; visibility: hidden">
+                <view></view>
+              </view>
+            </view>
+          </view>
+
+          <!-- Unnamed (矩形) -->
+          <view id="u915" class="ax_default _文本段落 selected">
+            <view id="u915_div" class="selected"></view>
+            <view id="u915_text" class="text ">
+              <view><text>教授</text></view>
+            </view>
+          </view>
+
+          <!-- Unnamed (矩形) -->
+          <view id="u916" class="ax_default _文本段落 selected">
+            <view id="u916_div" class="selected"></view>
+            <view id="u916_text" class="text ">
+              <view><text>陈凤德</text></view>
+            </view>
+          </view>
+        </view>
+
+        <!-- Unnamed (图片) -->
+        <view id="u917" class="ax_default _图片 selected">
+          <image id="u917_img" class="img " src="../../../images/商店抽卡/u228.png"></image>
+          <view id="u917_text" class="text " style="display:none; visibility: hidden">
+            <view></view>
+          </view>
+        </view>
+
+        <!-- Unnamed (图片) -->
+        <view id="u918" class="ax_default _图片 selected">
+          <image id="u918_img" class="img " src="../../../images/主界面/u64.png"></image>
+          <view id="u918_text" class="text " style="display:none; visibility: hidden">
+            <view></view>
+          </view>
+        </view>
+
+        <!-- Unnamed (图片) -->
+        <view id="u919" class="ax_default _图片 selected">
+          <image id="u919_img" class="img " src="../../../images/商店抽卡/u230.png"></image>
+          <view id="u919_text" class="text " style="display:none; visibility: hidden">
+            <view></view>
+          </view>
+        </view>
+
+        <!-- Unnamed (图片) -->
+        <view id="u920" class="ax_default _图片 selected">
+          <image id="u920_img" class="img " src="../../../images/商店抽卡/u231.png"></image>
+          <view id="u920_text" class="text " style="display:none; visibility: hidden">
+            <view></view>
+          </view>
+        </view>
+
+        <!-- Unnamed (图片) -->
+        <view id="u921" class="ax_default _图片 selected">
+          <image id="u921_img" class="img " src="../../../images/商店抽卡/u232.png"></image>
+          <view id="u921_text" class="text " style="display:none; visibility: hidden">
+            <view></view>
+          </view>
+        </view>
+      </view>
+
+      <!-- Unnamed (图片) -->
+      <view id="u922" class="ax_default _图片 selected">
+        <image id="u922_img" class="img " src="../../../images/商店抽卡/u233.png"></image>
+        <view id="u922_text" class="text " style="display:none; visibility: hidden">
+          <view></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (图片) -->
+      <view id="u923" class="ax_default _图片 selected">
+        <image id="u923_img" class="img " src="../../../images/商店抽卡/u234.png"></image>
+        <view id="u923_text" class="text " style="display:none; visibility: hidden">
+          <view></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (图片) -->
+      <view id="u924" class="ax_default _图片 selected">
+        <image id="u924_img" class="img " src="../../../images/商店抽卡/u235.png"></image>
+        <view id="u924_text" class="text " style="display:none; visibility: hidden">
+          <view></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (图片) -->
+      <view id="u925" class="ax_default _图片 selected">
+        <image id="u925_img" class="img " src="../../../images/商店抽卡/u235.png"></image>
+        <view id="u925_text" class="text " style="display:none; visibility: hidden">
+          <view></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (图片) -->
+      <view id="u926" class="ax_default _图片 selected">
+        <image id="u926_img" class="img " src="../../../images/商店抽卡/u237.png"></image>
+        <view id="u926_text" class="text " style="display:none; visibility: hidden">
+          <view></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (图片) -->
+      <view id="u927" class="ax_default _图片 selected">
+        <image id="u927_img" class="img " src="../../../images/商店抽卡/u238.png"></image>
+        <view id="u927_text" class="text " style="display:none; visibility: hidden">
+          <view></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (图片) -->
+      <view id="u928" class="ax_default _图片 selected">
+        <image id="u928_img" class="img " src="../../../images/商店抽卡/u238.png"></image>
+        <view id="u928_text" class="text " style="display:none; visibility: hidden">
+          <view></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (图片) -->
+      <view id="u929" class="ax_default _图片 selected">
+        <image id="u929_img" class="img " src="../../../images/商店抽卡/u238.png"></image>
+        <view id="u929_text" class="text " style="display:none; visibility: hidden">
+          <view></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (图片) -->
+      <view id="u930" class="ax_default _图片 selected">
+        <image id="u930_img" class="img " src="../../../images/商店抽卡/u238.png"></image>
+        <view id="u930_text" class="text " style="display:none; visibility: hidden">
+          <view></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (图片) -->
+      <view id="u931" class="ax_default _图片 selected">
+        <image id="u931_img" class="img " src="../../../images/商店抽卡/u238.png"></image>
+        <view id="u931_text" class="text " style="display:none; visibility: hidden">
+          <view></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (矩形) -->
+      <view id="u932" class="ax_default _文本段落 selected">
+        <view id="u932_div" class="selected"></view>
+        <view id="u932_text" class="text ">
+          <view><text>逻辑</text></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (矩形) -->
+      <view id="u933" class="ax_default _文本段落 selected">
+        <view id="u933_div" class="selected"></view>
+        <view id="u933_text" class="text ">
+          <view><text>理解</text></view>
+        </view>
+      </view>
+    </view>
+
+    <!-- Unnamed (矩形) -->
+    <view id="u934" class="ax_default _文本段落 selected">
+      <view id="u934_div" class="selected"></view>
+      <view id="u934_text" class="text ">
+        <view><text>辨证</text></view>
+      </view>
+    </view>
+
+    <!-- Unnamed (矩形) -->
+    <view id="u935" class="ax_default _文本段落 selected">
+      <view id="u935_div" class="selected"></view>
+      <view id="u935_text" class="text ">
+        <view><text>解析</text></view>
+      </view>
+    </view>
+
+    <!-- Unnamed (矩形) -->
+    <view id="u936" class="ax_default _文本段落 selected">
+      <view id="u936_div" class="selected"></view>
+      <view id="u936_text" class="text ">
+        <view><text>抽象</text></view>
+      </view>
+    </view>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u937" class="ax_default _图片 selected">
+    <image id="u937_img" class="img " src="../../../images/商店抽卡/u248.png"></image>
+    <view id="u937_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u938" class="ax_default _图片 selected">
+    <image id="u938_img" class="img " src="../../../images/商店抽卡/u248.png"></image>
+    <view id="u938_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u939" class="ax_default _图片 selected">
+    <image id="u939_img" class="img " src="../../../images/商店抽卡/u248.png"></image>
+    <view id="u939_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u940" class="ax_default _图片 selected">
+    <image id="u940_img" class="img " src="../../../images/商店抽卡/u248.png"></image>
+    <view id="u940_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u941" class="ax_default _图片 selected">
+    <image id="u941_img" class="img " src="../../../images/商店抽卡/u248.png"></image>
+    <view id="u941_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u942" class="ax_default" data-left="649" data-top="146" data-width="161" data-height="93" layer-opacity="1">
+
+  <!-- Unnamed (图片) -->
+  <view id="u943" class="ax_default _图片">
+    <image id="u943_img" class="img " src="../../../images/派题阶段/u857.svg"></image>
+    <view id="u943_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u944" class="ax_default _段落">
+    <image id="u944_img" class="img " src="../../../images/派题阶段/u858.svg"></image>
+    <view id="u944_text" class="text ">
+      <view><text>机器学习</text></view>
+    </view>
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u945" class="ax_default" data-left="694" data-top="245" data-width="71" data-height="42" layer-opacity="1">
+
+  <!-- Unnamed (图片) -->
+  <view id="u946" class="ax_default _图片">
+    <image id="u946_img" class="img " src="../../../images/出牌阶段/u946.svg"></image>
+    <view id="u946_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u947" class="ax_default _段落">
+    <image id="u947_img" class="img " src="../../../images/出牌阶段/u947.svg"></image>
+    <view id="u947_text" class="text ">
+      <view><text>确认出牌</text></view>
+    </view>
+  </view>
+</view>
+
+<!-- Unnamed (动态面板) -->
+<view id="u948" class="ax_default ax_default_hidden" style="display:none; visibility: hidden">
+  <view id="u948_state0" class="panel_state" data-label="状态 1" style="">
+    <view id="u948_state0_content" class="panel_state_content">
+
+      <!-- Unnamed (矩形) -->
+      <view id="u949" class="ax_default _形状">
+        <view id="u949_div" class=""></view>
+        <view id="u949_text" class="text " style="display:none; visibility: hidden">
+          <view></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (矩形) -->
+      <view id="u950" class="ax_default _段落">
+        <view id="u950_div" class=""></view>
+        <view id="u950_text" class="text ">
+          <view><text>是否退出？</text></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (矩形) -->
+      <view id="u951" class="ax_default _形状">
+        <view id="u951_div" class=""></view>
+        <view id="u951_text" class="text ">
+          <view><text>确认</text></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (矩形) -->
+      <view id="u952" class="ax_default _形状">
+        <view id="u952_div" class=""></view>
+        <view id="u952_text" class="text ">
+          <view><text>取消</text></view>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u953" class="ax_default _图片">
+  <image id="u953_img" class="img " src="../../../images/任务页面/u560.png"></image>
+  <view id="u953_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u954" class="ax_default" data-left="698" data-top="311" data-width="142" data-height="79" layer-opacity="1">
+
+  <!-- Unnamed (图片) -->
+  <view id="u955" class="ax_default _图片">
+    <image id="u955_img" class="img " src="../../../images/发牌前阶段/u774.png"></image>
+    <view id="u955_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u956" class="ax_default _段落">
+    <view id="u956_div" class=""></view>
+    <view id="u956_text" class="text ">
+      <view><text>下一题：数学</text></view>
+    </view>
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u957" class="ax_default" data-left="317" data-top="0" data-width="207" data-height="390" layer-opacity="1">
+
+  <!-- Unnamed (组合) -->
+  <view id="u958" class="ax_default" data-left="317" data-top="0" data-width="200" data-height="118" layer-opacity="1">
+
+    <!-- Unnamed (图片) -->
+    <view id="u959" class="ax_default _图片">
+      <image id="u959_img" class="img " src="../../../images/选择关卡_选择卡片_/u698.png"></image>
+      <view id="u959_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+
+    <!-- Unnamed (图片) -->
+    <view id="u960" class="ax_default _图片">
+      <image id="u960_img" class="img " src="../../../images/选择关卡_选择卡片_/u698.png"></image>
+      <view id="u960_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+
+    <!-- Unnamed (图片) -->
+    <view id="u961" class="ax_default _图片">
+      <image id="u961_img" class="img " src="../../../images/选择关卡_选择卡片_/u698.png"></image>
+      <view id="u961_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+
+    <!-- Unnamed (图片) -->
+    <view id="u962" class="ax_default _图片">
+      <image id="u962_img" class="img " src="../../../images/选择关卡_选择卡片_/u698.png"></image>
+      <view id="u962_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+
+    <!-- Unnamed (图片) -->
+    <view id="u963" class="ax_default _图片">
+      <image id="u963_img" class="img " src="../../../images/选择关卡_选择卡片_/u698.png"></image>
+      <view id="u963_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+
+    <!-- Unnamed (图片) -->
+    <view id="u964" class="ax_default _图片">
+      <image id="u964_img" class="img " src="../../../images/商店抽卡/u224.jpg"></image>
+      <view id="u964_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+
+    <!-- Unnamed (图片) -->
+    <view id="u965" class="ax_default _图片">
+      <image id="u965_img" class="img " src="../../../images/商店抽卡/u224.jpg"></image>
+      <view id="u965_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+
+    <!-- Unnamed (图片) -->
+    <view id="u966" class="ax_default _图片">
+      <image id="u966_img" class="img " src="../../../images/商店抽卡/u224.jpg"></image>
+      <view id="u966_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+  </view>
+
+  <!-- Unnamed (组合) -->
+  <view id="u967" class="ax_default" data-left="324" data-top="272" data-width="200" data-height="118" layer-opacity="1">
+
+    <!-- Unnamed (图片) -->
+    <view id="u968" class="ax_default _图片">
+      <image id="u968_img" class="img " src="../../../images/商店抽卡/u224.jpg"></image>
+      <view id="u968_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+
+    <!-- Unnamed (图片) -->
+    <view id="u969" class="ax_default _图片">
+      <image id="u969_img" class="img " src="../../../images/商店抽卡/u224.jpg"></image>
+      <view id="u969_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+
+    <!-- Unnamed (图片) -->
+    <view id="u970" class="ax_default _图片">
+      <image id="u970_img" class="img " src="../../../images/商店抽卡/u224.jpg"></image>
+      <view id="u970_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+
+    <!-- Unnamed (图片) -->
+    <view id="u971" class="ax_default _图片">
+      <image id="u971_img" class="img " src="../../../images/商店抽卡/u224.jpg"></image>
+      <view id="u971_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+
+    <!-- Unnamed (图片) -->
+    <view id="u972" class="ax_default _图片">
+      <image id="u972_img" class="img " src="../../../images/商店抽卡/u224.jpg"></image>
+      <view id="u972_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+
+    <!-- Unnamed (图片) -->
+    <view id="u973" class="ax_default _图片">
+      <image id="u973_img" class="img " src="../../../images/商店抽卡/u224.jpg"></image>
+      <view id="u973_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+
+    <!-- Unnamed (图片) -->
+    <view id="u974" class="ax_default _图片">
+      <image id="u974_img" class="img " src="../../../images/商店抽卡/u224.jpg"></image>
+      <view id="u974_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+
+    <!-- Unnamed (组合) -->
+    <view id="u975" class="ax_default" data-left="438" data-top="272" data-width="86" data-height="118" layer-opacity="1">
+
+      <!-- Unnamed (图片) -->
+      <view id="u976" class="ax_default _图片">
+        <image id="u976_img" class="img " src="../../../images/商店抽卡/u224.jpg"></image>
+        <view id="u976_text" class="text " style="display:none; visibility: hidden">
+          <view></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (图片) -->
+      <view id="u977" class="ax_default _图片">
+        <image id="u977_img" class="img " src="../../../images/商店抽卡/u225.png"></image>
+        <view id="u977_text" class="text " style="display:none; visibility: hidden">
+          <view></view>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>
+</view>
