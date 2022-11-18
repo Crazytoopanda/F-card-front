@@ -9,7 +9,7 @@
             "list": [
                 {
                     "name": "",
-                    "pathName": "pages/battle/chooseLevel/chooseLevel",
+                    "pathName": "pages/ui/IDlogin/IDlogin",
                     "query": "",
                     "launchMode": "default",
                     "scene": null

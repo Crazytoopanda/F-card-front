@@ -1,0 +1,427 @@
+<!--pages/ui/usermassage/usermassage.wxml-->
+<view id="base" class="">
+
+<!-- Unnamed (图片) -->
+<view id="u130" class="ax_default _图片">
+  <image id="u130_img" class="img " src="../../../images/加载界面/u2.png"></image>
+  <view id="u130_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u131" class="ax_default _图片">
+  <image id="u131_img" class="img " src="../../../images/设置页面/u129.png" bindtap="gotomain"></image>
+  <view id="u131_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u132" class="ax_default label">
+  <view id="u132_div" class=""></view>
+  <view id="u132_text" class="text ">
+    <view><text>用户信息</text></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u133" class="ax_default _图片">
+  <image id="u133_img" class="img " src="../../../images/用户信息界面/u133.png"></image>
+  <view id="u133_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (动态面板) -->
+<view id="u134" class="ax_default">
+  <view id="u134_state0" class="panel_state" data-label="状态 1" style="">
+    <view id="u134_state0_content" class="panel_state_content">
+
+      <!-- Unnamed (组合) -->
+      <view id="u135" class="ax_default" data-left="0.297204204489228" data-top="-0.20279579551077553" data-width="30.405591591021548" data-height="30.40559159102154" layer-opacity="1">
+
+        <!-- Unnamed (矩形) -->
+        <view id="u136" class="ax_default _图片">
+          <view id="u136_div" class=""></view>
+          <view id="u136_text" class="text " style="display:none; visibility: hidden">
+            <view></view>
+          </view>
+        </view>
+
+        <!-- Unnamed (图片) -->
+        <view id="u137" class="ax_default _图片">
+          <image id="u137_img" class="img " src="../../../images/用户信息界面/u137.png"></image>
+          <view id="u137_text" class="text " style="display:none; visibility: hidden">
+            <view></view>
+          </view>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view id="u134_state1" class="panel_state" data-label="状态 2" style="visibility: hidden;">
+    <view id="u134_state1_content" class="panel_state_content">
+
+      <!-- Unnamed (组合) -->
+      <view id="u138" class="ax_default" data-left="1" data-top="3" data-width="24" data-height="24" layer-opacity="1">
+
+        <!-- Unnamed (矩形) -->
+        <view id="u139" class="ax_default box_1">
+          <view id="u139_div" class=""></view>
+          <view id="u139_text" class="text " style="display:none; visibility: hidden">
+            <view></view>
+          </view>
+        </view>
+
+        <!-- Unnamed (图片) -->
+        <view id="u140" class="ax_default _图片">
+          <image id="u140_img" class="img " src="../../../images/用户信息界面/u140.png"></image>
+          <view id="u140_text" class="text " style="display:none; visibility: hidden">
+            <view></view>
+          </view>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u141" class="ax_default label">
+  <view id="u141_div" class=""></view>
+  <view id="u141_text" class="text ">
+    <view><text>昵称</text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u142" class="ax_default label">
+  <view id="u142_div" class=""></view>
+  <view id="u142_text" class="text ">
+    <view><text>ID：123456789</text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u143" class="ax_default box_2">
+  <view id="u143_div" class=""></view>
+  <view id="u143_text" class="text ">
+    <view><text>所属学院</text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u144" class="ax_default box_1">
+  <view id="u144_div" class=""></view>
+  <view id="u144_text" class="text ">
+    <view><text>计算机与大数据学院</text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u145" class="ax_default box_1">
+  <view id="u145_div" class=""></view>
+  <view id="u145_text" class="text ">
+    <view><text>卡牌展示</text></view>
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u146" class="ax_default" data-left="59" data-top="324" data-width="378" data-height="36" layer-opacity="1">
+
+  <!-- Unnamed (矩形) -->
+  <view id="u147" class="ax_default box_2">
+    <view id="u147_div" class=""></view>
+    <view id="u147_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u148" class="ax_default label">
+    <view id="u148_div" class=""></view>
+    <view id="u148_text" class="text ">
+      <view><text>总场数</text></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u149" class="ax_default label">
+    <view id="u149_div" class=""></view>
+    <view id="u149_text" class="text ">
+      <view><text>胜场数</text></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u150" class="ax_default label">
+    <view id="u150_div" class=""></view>
+    <view id="u150_text" class="text ">
+      <view><text>胜率</text></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u151" class="ax_default label">
+    <view id="u151_div" class=""></view>
+    <view id="u151_text" class="text ">
+      <view><text>100</text></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u152" class="ax_default label">
+    <view id="u152_div" class=""></view>
+    <view id="u152_text" class="text ">
+      <view><text>50</text></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u153" class="ax_default label">
+    <view id="u153_div" class=""></view>
+    <view id="u153_text" class="text ">
+      <view><text>50%</text></view>
+    </view>
+  </view>
+</view>
+
+<!-- Unnamed (垂直线) -->
+<view id="u154" class="ax_default line">
+  <image id="u154_img" class="img " src="../../../images/用户信息界面/u154.svg"></image>
+  <view id="u154_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u155" class="ax_default" data-left="691" data-top="93" data-width="103" data-height="129" layer-opacity="1">
+
+  <!-- Unnamed (矩形) -->
+  <view id="u156" class="ax_default box_1">
+    <view id="u156_div" class=""></view>
+    <view id="u156_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u157" class="ax_default box_2">
+    <view id="u157_div" class=""></view>
+    <view id="u157_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (形状) -->
+  <view id="u158" class="ax_default icon">
+    <image id="u158_img" class="img " src="../../../images/用户信息界面/u158.svg"></image>
+    <view id="u158_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+</view>
+
+<!-- Unnamed (形状) -->
+<view id="u159" class="ax_default icon">
+  <image id="u159_img" class="img " src="../../../images/用户信息界面/u159.svg" bindtap="change1"></image>
+  <view id="u159_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u160" class="ax_default" data-left="557" data-top="93" data-width="103" data-height="129" layer-opacity="1">
+
+  <!-- Unnamed (矩形) -->
+  <view id="u161" class="ax_default box_1">
+    <view id="u161_div" class=""></view>
+    <view id="u161_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u162" class="ax_default box_2">
+    <view id="u162_div" class=""></view>
+    <view id="u162_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (形状) -->
+  <view id="u163" class="ax_default icon">
+    <image id="u163_img" class="img " src="../../../images/用户信息界面/u158.svg"></image>
+    <view id="u163_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u164" class="ax_default" data-left="557" data-top="240" data-width="103" data-height="129" layer-opacity="1">
+
+  <!-- Unnamed (矩形) -->
+  <view id="u165" class="ax_default box_1">
+    <view id="u165_div" class=""></view>
+    <view id="u165_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u166" class="ax_default box_2">
+    <view id="u166_div" class=""></view>
+    <view id="u166_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (形状) -->
+  <view id="u167" class="ax_default icon">
+    <image id="u167_img" class="img " src="../../../images/用户信息界面/u158.svg"></image>
+    <view id="u167_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u168" class="ax_default" data-left="692" data-top="240" data-width="103" data-height="129" layer-opacity="1">
+
+  <!-- Unnamed (矩形) -->
+  <view id="u169" class="ax_default box_1">
+    <view id="u169_div" class=""></view>
+    <view id="u169_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u170" class="ax_default box_2">
+    <view id="u170_div" class=""></view>
+    <view id="u170_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (形状) -->
+  <view id="u171" class="ax_default icon">
+    <image id="u171_img" class="img " src="../../../images/用户信息界面/u158.svg"></image>
+    <view id="u171_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u172" class="ax_default box_2">
+  <view id="u172_div" class=""></view>
+  <view id="u172_text" class="text ">
+    <view><text>爬塔层数</text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u173" class="ax_default box_1">
+  <view id="u173_div" class=""></view>
+  <view id="u173_text" class="text ">
+    <view><text>10</text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u174" class="ax_default box_2">
+  <view id="u174_div" class=""></view>
+  <view id="u174_text" class="text ">
+    <view><text>个人排名</text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u175" class="ax_default box_1">
+  <view id="u175_div" class=""></view>
+  <view id="u175_text" class="text ">
+    <view><text>5</text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u176" class="ax_default box_1 ax_default_hidden">
+  <view id="u176_div" class="" hidden="{{hidden1}}"></view>
+  <view id="u176_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u177" class="ax_default ax_default_hidden" hidden="{{hidden1}}" data-left="270" data-top="107" data-width="301" data-height="171" layer-opacity="1">
+
+  <!-- Unnamed (矩形) -->
+  <view id="u178" class="ax_default box_1">
+    <view id="u178_div" class=""></view>
+    <view id="u178_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u179" class="ax_default label">
+    <view id="u179_div" class=""></view>
+    <view id="u179_text" class="text ">
+      <view><text>修改昵称</text></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (文本框) -->
+  <view id="u180" class="ax_default text_field">
+    <view id="u180_div" class=""></view>
+    <input id="u180_input" type="text" value="" class="u180_input"/>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u181" class="ax_default label">
+    <view id="u181_div" class=""></view>
+    <view id="u181_text" class="text ">
+      <view><text>修改性别</text></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (单选按钮) -->
+  <view id="u182" class="ax_default radio_button" selectiongroup="性别">
+    <label id="u182_input_label" for="u182_input" style="position: absolute; left: 0rpx;">
+      <image id="u182_img" class="img " src="../../../images/用户信息界面/u182.svg"></image>
+      <view id="u182_text" class="text ">
+        <view><text>男</text></view>
+      </view>
+    </label>
+    <input id="u182_input" type="radio" value="radio" name="性别"/>
+  </view>
+
+  <!-- Unnamed (单选按钮) -->
+  <view id="u183" class="ax_default radio_button" selectiongroup="性别">
+    <label id="u183_input_label" for="u183_input" style="position: absolute; left: 0rpx;">
+      <image id="u183_img" class="img " src="../../../images/用户信息界面/u183.svg"></image>
+      <view id="u183_text" class="text ">
+        <view><text>女</text></view>
+      </view>
+    </label>
+    <input id="u183_input" type="radio" value="radio" name="性别"/>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u184" class="ax_default html_button">
+    <view id="u184_div" class=""></view>
+    <view id="u184_text" class="text ">
+      <view bindtap="change1"><text>确认修改</text></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u185" class="ax_default html_button">
+    <view id="u185_div" class=""></view>
+    <view id="u185_text" class="text ">
+      <view bindtap="change1"><text>取消</text></view>
+    </view>
+  </view>
+</view>
+</view>

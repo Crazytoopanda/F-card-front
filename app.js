@@ -14,6 +14,16 @@ App({
     })
   },
   globalData: {
+    rank_list_data11: "",
+    rank_list_data12:"",
+    user: {
+        "collegeInfluence": 50,
+        "grade": 100,
+        "name": "李福安",
+        "rank": 1,
+        "college": "计算机学院",
+        "dateTime": "2022-11-4"
+      },
     userInfo: null
   }
 })
