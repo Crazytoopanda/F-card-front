@@ -67,7 +67,7 @@
   <view id="u788" class="ax_default _段落">
     <view id="u788_div" class=""></view>
     <view id="u788_text" class="text ">
-      <view><text>下一题：计算机<text></view>
+      <view><text>下一题：计算机</text></view>
     </view>
   </view>
 </view>
@@ -92,7 +92,7 @@
 <view id="u791" class="ax_default _形状">
   <image id="u791_img" class="img " src="images/对战开始/u726.svg"></image>
   <view id="u791_text" class="text ">
-    <view><text>玩家<text></view>
+    <view><text>玩家</text></view>
   </view>
 </view>
 
@@ -100,7 +100,7 @@
 <view id="u792" class="ax_default _段落">
   <view id="u792_div" class=""></view>
   <view id="u792_text" class="text ">
-    <view><text>我是帅哥<text></view>
+    <view><text>我是帅哥</text></view>
   </view>
 </view>
 
@@ -108,7 +108,7 @@
 <view id="u793" class="ax_default _段落">
   <view id="u793_div" class=""></view>
   <view id="u793_text" class="text ">
-    <view><text>势均力敌的AI<text></view>
+    <view><text>势均力敌的AI</text></view>
   </view>
 </view>
 
@@ -161,7 +161,7 @@
       <view id="u800" class="ax_default _段落">
         <view id="u800_div" class=""></view>
         <view id="u800_text" class="text ">
-          <view><text>是否退出？<text></view>
+          <view><text>是否退出？</text></view>
         </view>
       </view>
 
@@ -169,7 +169,7 @@
       <view id="u801" class="ax_default _形状">
         <view id="u801_div" class=""></view>
         <view id="u801_text" class="text ">
-          <view><text>确认<text></view>
+          <view><text>确认</text></view>
         </view>
       </view>
 
@@ -177,7 +177,7 @@
       <view id="u802" class="ax_default _形状">
         <view id="u802_div" class=""></view>
         <view id="u802_text" class="text ">
-          <view><text>取消<text></view>
+          <view><text>取消</text></view>
         </view>
       </view>
     </view>
