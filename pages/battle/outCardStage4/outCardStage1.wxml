@@ -36,7 +36,7 @@
 <view id="u878" class="ax_default _形状">
   <image id="u878_img" class="img " src="images/对战开始/u726.svg"></image>
   <view id="u878_text" class="text ">
-    <view><text>玩家<text></view>
+    <view><text>玩家</text></view>
   </view>
 </view>
 
@@ -44,7 +44,7 @@
 <view id="u879" class="ax_default _段落">
   <view id="u879_div" class=""></view>
   <view id="u879_text" class="text ">
-    <view><text>我是帅哥<text></view>
+    <view><text>我是帅哥</text></view>
   </view>
 </view>
 
@@ -52,7 +52,7 @@
 <view id="u880" class="ax_default _段落">
   <view id="u880_div" class=""></view>
   <view id="u880_text" class="text ">
-    <view><text>势均力敌的AI<text></view>
+    <view><text>势均力敌的AI</text></view>
   </view>
 </view>
 
@@ -139,7 +139,7 @@
   <view id="u892" class="ax_default _形状">
     <image id="u892_img" class="img " src="images/出牌阶段/u892.svg"></image>
     <view id="u892_text" class="text ">
-      <view><text>空位<text></view>
+      <view><text>空位</text></view>
     </view>
   </view>
 
@@ -147,7 +147,7 @@
   <view id="u893" class="ax_default _形状">
     <image id="u893_img" class="img " src="images/出牌阶段/u892.svg"></image>
     <view id="u893_text" class="text ">
-      <view><text>空位<text></view>
+      <view><text>空位</text></view>
     </view>
   </view>
 
@@ -155,7 +155,7 @@
   <view id="u894" class="ax_default _形状">
     <image id="u894_img" class="img " src="images/出牌阶段/u892.svg"></image>
     <view id="u894_text" class="text ">
-      <view><text>空位<text></view>
+      <view><text>空位</text></view>
     </view>
   </view>
 </view>
@@ -199,7 +199,7 @@
           <view id="u903" class="ax_default _文本段落 selected">
             <view id="u903_div" class="selected"></view>
             <view id="u903_text" class="text ">
-              <view><text>教授<text></view>
+              <view><text>教授</text></view>
             </view>
           </view>
 
@@ -207,7 +207,7 @@
           <view id="u904" class="ax_default _文本段落 selected">
             <view id="u904_div" class="selected"></view>
             <view id="u904_text" class="text ">
-              <view><text>陈凤德<text></view>
+              <view><text>陈凤德</text></view>
             </view>
           </view>
         </view>
@@ -337,7 +337,7 @@
       <view id="u920" class="ax_default _文本段落 selected">
         <view id="u920_div" class="selected"></view>
         <view id="u920_text" class="text ">
-          <view><text>逻辑<text></view>
+          <view><text>逻辑</text></view>
         </view>
       </view>
 
@@ -345,7 +345,7 @@
       <view id="u921" class="ax_default _文本段落 selected">
         <view id="u921_div" class="selected"></view>
         <view id="u921_text" class="text ">
-          <view><text>理解<text></view>
+          <view><text>理解</text></view>
         </view>
       </view>
     </view>
@@ -354,7 +354,7 @@
     <view id="u922" class="ax_default _文本段落 selected">
       <view id="u922_div" class="selected"></view>
       <view id="u922_text" class="text ">
-        <view><text>辨证<text></view>
+        <view><text>辨证</text></view>
       </view>
     </view>
 
@@ -362,7 +362,7 @@
     <view id="u923" class="ax_default _文本段落 selected">
       <view id="u923_div" class="selected"></view>
       <view id="u923_text" class="text ">
-        <view><text>解析<text></view>
+        <view><text>解析</text></view>
       </view>
     </view>
 
@@ -370,7 +370,7 @@
     <view id="u924" class="ax_default _文本段落 selected">
       <view id="u924_div" class="selected"></view>
       <view id="u924_text" class="text ">
-        <view><text>抽象<text></view>
+        <view><text>抽象</text></view>
       </view>
     </view>
   </view>
@@ -431,7 +431,7 @@
   <view id="u932" class="ax_default _段落">
     <image id="u932_img" class="img " src="images/派题阶段/u846.svg"></image>
     <view id="u932_text" class="text ">
-      <view><text>机器学习<text></view>
+      <view><text>机器学习</text></view>
     </view>
   </view>
 </view>
@@ -451,7 +451,7 @@
   <view id="u935" class="ax_default _段落">
     <image id="u935_img" class="img " src="images/出牌阶段/u935.svg"></image>
     <view id="u935_text" class="text ">
-      <view><text>确认出牌<text></view>
+      <view><text>确认出牌</text></view>
     </view>
   </view>
 </view>
@@ -473,7 +473,7 @@
       <view id="u938" class="ax_default _段落">
         <view id="u938_div" class=""></view>
         <view id="u938_text" class="text ">
-          <view><text>是否退出？<text></view>
+          <view><text>是否退出？</text></view>
         </view>
       </view>
 
@@ -481,7 +481,7 @@
       <view id="u939" class="ax_default _形状">
         <view id="u939_div" class=""></view>
         <view id="u939_text" class="text ">
-          <view><text>确认<text></view>
+          <view><text>确认</text></view>
         </view>
       </view>
 
@@ -489,7 +489,7 @@
       <view id="u940" class="ax_default _形状">
         <view id="u940_div" class=""></view>
         <view id="u940_text" class="text ">
-          <view><text>取消<text></view>
+          <view><text>取消</text></view>
         </view>
       </view>
     </view>
@@ -519,7 +519,7 @@
   <view id="u944" class="ax_default _段落">
     <view id="u944_div" class=""></view>
     <view id="u944_text" class="text ">
-      <view><text>下一题：数学<text></view>
+      <view><text>下一题：数学</text></view>
     </view>
   </view>
 </view>

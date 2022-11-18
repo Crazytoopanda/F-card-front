@@ -23,7 +23,7 @@
   <view id="u1028" class="ax_default _形状">
     <image id="u1028_img" class="img " src="images/对战开始/u726.svg"></image>
     <view id="u1028_text" class="text ">
-      <view><text>玩家<text></view>
+      <view><text>玩家</text></view>
     </view>
   </view>
 
@@ -31,7 +31,7 @@
   <view id="u1029" class="ax_default _段落">
     <view id="u1029_div" class=""></view>
     <view id="u1029_text" class="text ">
-      <view><text>我是帅哥<text></view>
+      <view><text>我是帅哥</text></view>
     </view>
   </view>
 
@@ -59,7 +59,7 @@
   <view id="u1033" class="ax_default _段落">
     <view id="u1033_div" class=""></view>
     <view id="u1033_text" class="text ">
-      <view><text>势均力敌的AI<text></view>
+      <view><text>势均力敌的AI</text></view>
     </view>
   </view>
 
@@ -95,7 +95,7 @@
   <view id="u1038" class="ax_default _段落">
     <image id="u1038_img" class="img " src="images/结束游戏_成功_/u1038.svg"></image>
     <view id="u1038_text" class="text ">
-      <view><text>399<text></view>
+      <view><text>399</text></view>
     </view>
   </view>
 </view>
@@ -115,7 +115,7 @@
   <view id="u1041" class="ax_default _段落">
     <image id="u1041_img" class="img " src="images/结束游戏_成功_/u1038.svg"></image>
     <view id="u1041_text" class="text ">
-      <view><text>432<text></view>
+      <view><text>432</text></view>
     </view>
   </view>
 </view>
@@ -135,7 +135,7 @@
   <view id="u1044" class="ax_default _段落">
     <image id="u1044_img" class="img " src="images/结束游戏_成功_/u1044.svg"></image>
     <view id="u1044_text" class="text ">
-      <view style="font-size:34rpx;"><text style="font-size:40rpx;">胜利！<text><text> <text></view>
+      <view style="font-size:34rpx;"><text style="font-size:40rpx;">胜利！<text><text> </text></view>
     </view>
   </view>
 
@@ -159,7 +159,7 @@
   <view id="u1047" class="ax_default button">
     <image id="u1047_img" class="img " src="images/结束游戏_成功_/u1047.svg"></image>
     <view id="u1047_text" class="text ">
-      <view><text>+10<text></view>
+      <view><text>+10</text></view>
     </view>
   </view>
 
@@ -167,7 +167,7 @@
   <view id="u1048" class="ax_default button">
     <image id="u1048_img" class="img " src="images/结束游戏_成功_/u1047.svg"></image>
     <view id="u1048_text" class="text ">
-      <view><text>+10<text></view>
+      <view><text>+10</text></view>
     </view>
   </view>
 
@@ -175,7 +175,7 @@
   <view id="u1049" class="ax_default primary_button">
     <view id="u1049_div" class=""></view>
     <view id="u1049_text" class="text ">
-      <view><text>确认<text></view>
+      <view><text>确认</text></view>
     </view>
   </view>
 </view>

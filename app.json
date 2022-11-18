@@ -6,7 +6,7 @@
     "pages/ui/rank2/rank2",
     "pages/ui/rank3/rank3",
     "pages/ui/rank4/rank4"
-],
+  ],
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#fff",
