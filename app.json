@@ -1,6 +1,10 @@
 {
     "pages":[
     "pages/ui/mainDisplay/mainDisplay",
+    "pages/ui/Loginpages/Loginpages",
+    "pages/ui/IDlogin/IDlogin",
+    "pages/ui/setting/setting",
+    "pages/ui/usermassage/usermassage",
     "pages/battle/chooseLevel/chooseLevel"
   ],
   "window":{
