@@ -67,7 +67,7 @@
   <view id="u834" class="ax_default _段落">
     <view id="u834_div" class=""></view>
     <view id="u834_text" class="text ">
-      <view><text>下一题：数学<text></view>
+      <view><text>下一题：数学</text></view>
     </view>
   </view>
 </view>
@@ -100,7 +100,7 @@
 <view id="u838" class="ax_default _形状">
   <image id="u838_img" class="img " src="images/对战开始/u726.svg"></image>
   <view id="u838_text" class="text ">
-    <view><text>玩家<text></view>
+    <view><text>玩家</text></view>
   </view>
 </view>
 
@@ -108,7 +108,7 @@
 <view id="u839" class="ax_default _段落">
   <view id="u839_div" class=""></view>
   <view id="u839_text" class="text ">
-    <view><text>我是帅哥<text></view>
+    <view><text>我是帅哥</text></view>
   </view>
 </view>
 
@@ -116,7 +116,7 @@
 <view id="u840" class="ax_default _段落">
   <view id="u840_div" class=""></view>
   <view id="u840_text" class="text ">
-    <view><text>势均力敌的AI<text></view>
+    <view><text>势均力敌的AI</text></view>
   </view>
 </view>
 
@@ -159,7 +159,7 @@
   <view id="u846" class="ax_default _段落">
     <image id="u846_img" class="img " src="images/派题阶段/u846.svg"></image>
     <view id="u846_text" class="text ">
-      <view><text>机器学习<text></view>
+      <view><text>机器学习</text></view>
     </view>
   </view>
 </view>
@@ -181,7 +181,7 @@
       <view id="u849" class="ax_default _段落">
         <view id="u849_div" class=""></view>
         <view id="u849_text" class="text ">
-          <view><text>是否退出？<text></view>
+          <view><text>是否退出？</text></view>
         </view>
       </view>
 
@@ -189,7 +189,7 @@
       <view id="u850" class="ax_default _形状">
         <view id="u850_div" class=""></view>
         <view id="u850_text" class="text ">
-          <view><text>确认<text></view>
+          <view><text>确认</text></view>
         </view>
       </view>
 
@@ -197,7 +197,7 @@
       <view id="u851" class="ax_default _形状">
         <view id="u851_div" class=""></view>
         <view id="u851_text" class="text ">
-          <view><text>取消<text></view>
+          <view><text>取消</text></view>
         </view>
       </view>
     </view>

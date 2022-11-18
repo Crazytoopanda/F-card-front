@@ -23,7 +23,7 @@
   <view id="u1053" class="ax_default _段落">
     <image id="u1053_img" class="img " src="images/结束游戏_失败_/u1053.svg"></image>
     <view id="u1053_text" class="text ">
-      <view style="font-size:34rpx;"><text style="font-size:40rpx;">失败<text><text> <text></view>
+      <view style="font-size:34rpx;"><text style="font-size:40rpx;">失败<text><text> </text></view>
     </view>
   </view>
 
@@ -31,7 +31,7 @@
   <view id="u1054" class="ax_default _段落">
     <view id="u1054_div" class=""></view>
     <view id="u1054_text" class="text ">
-      <view><text>尝试升级卡牌或进行派遣<text></view>
+      <view><text>尝试升级卡牌或进行派遣</text></view>
     </view>
   </view>
 </view>
@@ -40,7 +40,7 @@
 <view id="u1055" class="ax_default primary_button">
   <view id="u1055_div" class=""></view>
   <view id="u1055_text" class="text ">
-    <view><text>确认<text></view>
+    <view><text>确认</text></view>
   </view>
 </view>
 
@@ -59,7 +59,7 @@
   <view id="u1058" class="ax_default _形状">
     <image id="u1058_img" class="img " src="images/对战开始/u726.svg"></image>
     <view id="u1058_text" class="text ">
-      <view><text>玩家<text></view>
+      <view><text>玩家</text></view>
     </view>
   </view>
 
@@ -67,7 +67,7 @@
   <view id="u1059" class="ax_default _段落">
     <view id="u1059_div" class=""></view>
     <view id="u1059_text" class="text ">
-      <view><text>我是帅哥<text></view>
+      <view><text>我是帅哥</text></view>
     </view>
   </view>
 
@@ -95,7 +95,7 @@
   <view id="u1063" class="ax_default _段落">
     <view id="u1063_div" class=""></view>
     <view id="u1063_text" class="text ">
-      <view><text>势均力敌的AI<text></view>
+      <view><text>势均力敌的AI</text></view>
     </view>
   </view>
 
@@ -131,7 +131,7 @@
   <view id="u1068" class="ax_default _段落">
     <image id="u1068_img" class="img " src="images/结束游戏_成功_/u1038.svg"></image>
     <view id="u1068_text" class="text ">
-      <view><text>401<text></view>
+      <view><text>401</text></view>
     </view>
   </view>
 </view>
@@ -151,7 +151,7 @@
   <view id="u1071" class="ax_default _段落">
     <image id="u1071_img" class="img " src="images/结束游戏_成功_/u1038.svg"></image>
     <view id="u1071_text" class="text ">
-      <view><text>322<text></view>
+      <view><text>322</text></view>
     </view>
   </view>
 </view>
