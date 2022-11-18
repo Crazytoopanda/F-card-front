@@ -16,7 +16,28 @@
                 },
                 {
                     "name": "",
-                    "pathName": "pages/ui/usermassage/usermassage",
+                    "pathName": "pages/ui/mainDisplay/mainDisplay",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "",
+                    "pathName": "pages/battle/outQuesStage1/outQuesStage1",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "",
+                    "pathName": "pages/battle/battleStart/battleStart",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "",
+                    "pathName": "pages/battle/battleStart/battleStart",
                     "query": "",
                     "launchMode": "default",
                     "scene": null
