@@ -2,6 +2,11 @@
     "pages":[
     "pages/ui/task1/task1",
     "pages/ui/mainDisplay/mainDisplay",
+    "pages/ui/Loginpages/Loginpages",
+    "pages/ui/IDlogin/IDlogin",
+    "pages/ui/setting/setting",
+    "pages/ui/usermassage/usermassage",
+    "pages/battle/chooseLevel/chooseLevel",
     "pages/ui/rank1/rank1",
     "pages/ui/rank2/rank2",
     "pages/ui/rank3/rank3",
