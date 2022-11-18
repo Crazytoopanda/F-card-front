@@ -1,0 +1,319 @@
+<view id="base" class="">
+
+<!-- Unnamed (图片) -->
+<view id="u389" class="ax_default image">
+  <image id="u389_img" class="img " src="../../../images/个人排行1/u343.png"></image>
+  <view id="u389_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u390" class="ax_default" data-left="61" data-top="30" data-width="719" data-height="64" layer-opacity="1">
+
+  <!-- Unnamed (图片) -->
+  <view id="u391" class="ax_default image">
+    <image id="u391_img" class="img " src="../../../images/个人排行1/u345.svg"></image>
+    <view id="u391_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u392" class="ax_default image">
+    <image id="u392_img" class="img " src="../../../images/主界面/u64.png"></image>
+    <view id="u392_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u393" class="ax_default image">
+    <image id="u393_img" class="img " src="../../../images/主界面/u65.jpg"></image>
+    <view id="u393_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (文本框) -->
+  <view id="u394" class="ax_default text_field">
+    <view id="u394_view" class=""></view>
+    <input id="u394_input" type="text" value="YI | God" class="u394_input"/>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u395" class="ax_default image">
+    <image id="u395_img" class="img " src="../../../images/个人排行1/u351.png"></image>
+    <view id="u395_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (文本框) -->
+  <view id="u396" class="ax_default new_style">
+    <view id="u396_view" class=""></view>
+    <input id="u396_input" type="text" value="10034" class="u396_input"/>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u397" class="ax_default image">
+    <image id="u397_img" class="img " src="../../../images/个人排行2/u397.png"></image>
+    <view id="u397_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u398" class="ax_default image">
+    <image id="u398_img" class="img " src="../../../images/个人排行2/u398.png"></image>
+    <view id="u398_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (文本框) -->
+  <view id="u399" class="ax_default text_field">
+    <view id="u399_view" class=""></view>
+    <input id="u399_input" type="text" value="人文学院" class="u399_input"/>
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u400" class="ax_default" data-left="61" data-top="260" data-width="719" data-height="64" layer-opacity="1">
+
+  <!-- Unnamed (组合) -->
+  <view id="u401" class="ax_default" data-left="61" data-top="260" data-width="719" data-height="64" layer-opacity="1">
+
+    <!-- Unnamed (图片) -->
+    <view id="u402" class="ax_default image">
+      <image id="u402_img" class="img " src="../../../images/个人排行1/u345.svg"></image>
+      <view id="u402_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+
+    <!-- Unnamed (图片) -->
+    <view id="u403" class="ax_default image">
+      <image id="u403_img" class="img " src="../../../images/主界面/u64.png"></image>
+      <view id="u403_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+
+    <!-- Unnamed (图片) -->
+    <view id="u404" class="ax_default image">
+      <image id="u404_img" class="img " src="../../../images/主界面/u65.jpg"></image>
+      <view id="u404_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+
+    <!-- Unnamed (图片) -->
+    <view id="u405" class="ax_default image">
+      <image id="u405_img" class="img " src="../../../images/个人排行1/u348.jpg"></image>
+      <view id="u405_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+
+    <!-- Unnamed (图片) -->
+    <view id="u406" class="ax_default image">
+      <image id="u406_img" class="img " src="../../../images/主界面/u66.png"></image>
+      <view id="u406_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+
+    <!-- Unnamed (文本框) -->
+    <view id="u407" class="ax_default text_field">
+      <view id="u407_view" class=""></view>
+      <input id="u407_input" type="text" value="Dong | Yu" class="u407_input"/>
+    </view>
+
+    <!-- Unnamed (图片) -->
+    <view id="u408" class="ax_default image">
+      <image id="u408_img" class="img " src="../../../images/个人排行1/u351.png"></image>
+      <view id="u408_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+
+    <!-- Unnamed (文本框) -->
+    <view id="u409" class="ax_default new_style">
+      <view id="u409_view" class=""></view>
+      <input id="u409_input" type="text" value="11143" class="u409_input"/>
+    </view>
+  </view>
+
+  <!-- Unnamed (文本框) -->
+  <view id="u410" class="ax_default text_field">
+    <view id="u410_view" class=""></view>
+    <input id="u410_input" type="text" value="计算机学院" class="u410_input"/>
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u411" class="ax_default" data-left="61" data-top="103" data-width="719" data-height="64" layer-opacity="1">
+
+  <!-- Unnamed (组合) -->
+  <view id="u412" class="ax_default" data-left="61" data-top="103" data-width="719" data-height="64" layer-opacity="1">
+
+    <!-- Unnamed (图片) -->
+    <view id="u413" class="ax_default image">
+      <image id="u413_img" class="img " src="../../../images/个人排行1/u345.svg"></image>
+      <view id="u413_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u414" class="ax_default image">
+    <image id="u414_img" class="img " src="../../../images/主界面/u64.png"></image>
+    <view id="u414_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (文本框) -->
+  <view id="u415" class="ax_default text_field">
+    <view id="u415_view" class=""></view>
+    <input id="u415_input" type="text" value="Ling | Ma" class="u415_input"/>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u416" class="ax_default image">
+    <image id="u416_img" class="img " src="../../../images/个人排行1/u351.png"></image>
+    <view id="u416_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (文本框) -->
+  <view id="u417" class="ax_default new_style">
+    <view id="u417_view" class=""></view>
+    <input id="u417_input" type="text" value="10000" class="u417_input"/>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u418" class="ax_default image">
+    <image id="u418_img" class="img " src="../../../images/个人排行2/u418.png"></image>
+    <view id="u418_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u419" class="ax_default image">
+    <image id="u419_img" class="img " src="../../../images/个人排行2/u419.png"></image>
+    <view id="u419_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (文本框) -->
+  <view id="u420" class="ax_default text_field">
+    <view id="u420_view" class=""></view>
+    <input id="u420_input" type="text" value="外语学院" class="u420_input"/>
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u421" class="ax_default" data-left="61" data-top="176" data-width="719" data-height="64" layer-opacity="1">
+
+  <!-- Unnamed (组合) -->
+  <view id="u422" class="ax_default" data-left="61" data-top="177" data-width="719" data-height="63" layer-opacity="1">
+
+    <!-- Unnamed (图片) -->
+    <view id="u423" class="ax_default image">
+      <image id="u423_img" class="img " src="../../../images/个人排行1/u366.svg"></image>
+      <view id="u423_text" class="text " style="display:none; visibility: hidden">
+        <view></view>
+      </view>
+    </view>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u424" class="ax_default image">
+    <image id="u424_img" class="img " src="../../../images/主界面/u64.png"></image>
+    <view id="u424_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (文本框) -->
+  <view id="u425" class="ax_default text_field">
+    <view id="u425_view" class=""></view>
+    <input id="u425_input" type="text" value="Hao | Chen" class="u425_input"/>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u426" class="ax_default image">
+    <image id="u426_img" class="img " src="../../../images/个人排行1/u351.png"></image>
+    <view id="u426_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (文本框) -->
+  <view id="u427" class="ax_default new_style">
+    <view id="u427_view" class=""></view>
+    <input id="u427_input" type="text" value="9976" class="u427_input"/>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u428" class="ax_default image">
+    <image id="u428_img" class="img " src="../../../images/个人排行2/u428.png"></image>
+    <view id="u428_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u429" class="ax_default image">
+    <image id="u429_img" class="img " src="../../../images/个人排行2/u429.png"></image>
+    <view id="u429_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (文本框) -->
+  <view id="u430" class="ax_default text_field">
+    <view id="u430_view" class=""></view>
+    <input id="u430_input" type="text" value="经济管理学院" class="u430_input"/>
+  </view>
+</view>
+
+<!-- Unnamed (形状) -->
+<view id="u431" class="ax_default icon" >
+  <image id="u431_img" class="img " src="../../../images/个人排行1/u384.svg"></image>
+  <view id="u431_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (形状) -->
+<view id="u432" class="ax_default icon" bindtap="gotomessage3">
+  <image id="u432_img" class="img " src="../../../images/个人排行1/u385.svg"></image>
+  <view id="u432_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u433" class="ax_default primary_button">
+  <view id="u433_view" class=""></view>
+  <view id="u433_text" class="text ">
+    <view bindtap="gotomessage1"><text>个人排行</text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u434" class="ax_default primary_button">
+  <view id="u434_view" class=""></view>
+  <view id="u434_text" class="text ">
+    <view bindtap="gotomessage2"><text>院系排行</text></view>
+  </view>
+</view>
+
+</view>
