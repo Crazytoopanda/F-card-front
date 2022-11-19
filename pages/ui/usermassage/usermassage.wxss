@@ -270,7 +270,6 @@ body {
     -moz-box-shadow:none;
     -webkit-box-shadow:none;
     box-shadow:none;
-    visibility:hidden;
   }
   #u134_state1_content {
     border-width:0px;
