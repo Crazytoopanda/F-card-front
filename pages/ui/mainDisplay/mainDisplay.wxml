@@ -112,14 +112,6 @@
   </view>
 </view>
 
-<!-- Unnamed (图片) -->
-<view id="u42" class="ax_default _图片">
-  <image id="u42_img" class="img " src="../../../images/主界面/u42.png"></image>
-  <view id="u42_text" class="text " style="display:none; visibility: hidden">
-    <view></view>
-  </view>
-</view>
-
 <!-- Unnamed (组合) -->
 <view id="u43" class="ax_default" data-left="210" data-top="32" data-width="210" data-height="47" layer-opacity="1">
 
@@ -429,4 +421,10 @@
     <view><text>卡牌</text></view>
   </view>
 </view>
+<div id="u86" class="ax_default _图片" style="cursor: pointer;" bindtap="gotoStore">
+        <image id="u86_img" class="img " src="../../../images/主界面/u53.svg" tabindex="0"></image>
+        <div id="u86_text" class="text ">
+          <p><span>商店</span></p>
+        </div>
+      </div>
 </view>

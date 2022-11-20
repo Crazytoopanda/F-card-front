@@ -1,5 +1,6 @@
 {
     "pages":[
+    "pages/ui/store/store",
     "pages/ui/task1/task1",
     "pages/ui/mainDisplay/mainDisplay",
     "pages/ui/Loginpages/Loginpages",
