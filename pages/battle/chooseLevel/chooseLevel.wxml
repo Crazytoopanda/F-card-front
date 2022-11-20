@@ -3,7 +3,7 @@
 <!-- Unnamed (图片) -->
 <view id="u665" class="ax_default _图片">
   <image id="u665_img" class="img " src="../../../images/加载界面/u1.png"></image>
-  <view id="u665_text" class="text " style="display:none; visibility: hidden">
+  <view id="u665_text" class="text " style="display:none">
     <view></view>
   </view>
 </view>
@@ -11,13 +11,14 @@
 <!-- Unnamed (图片) -->
 <view id="u666" class="ax_default _图片">
   <image id="u666_img" class="img " src="../../../images/加载界面/u2.png"></image>
-  <view id="u666_text" class="text " style="display:none; visibility: hidden">
+  <view id="u666_text" class="text " style="display:none">
     <view></view>
   </view>
 </view>
 
 <!-- Unnamed (动态面板) -->
-<view id="u667" class="ax_default">
+<view id="u667" class="ax_default"><view capture-bind:touchstart="touchStartOper" capture-bind:touchend="touchEndOper" capture-bind:touchmove="touchMoveOper">
+  <view wx:if="{{situationDynamic==1}}">
   <view id="u667_state0" class="panel_state" data-label="状态 1" style="">
     <view id="u667_state0_content" class="panel_state_content">
 
@@ -45,8 +46,9 @@
         </view>
       </view>
     </view>
-  </view>
-  <view id="u667_state1" class="panel_state" data-label="状态 2" style="visibility: hidden;">
+  </view></view>
+  <view wx:if="{{situationDynamic==2}}">
+  <view id="u667_state1" class="panel_state" data-label="状态 2" style="">
     <view id="u667_state1_content" class="panel_state_content">
 
       <!-- Unnamed (形状) -->
@@ -73,8 +75,9 @@
         </view>
       </view>
     </view>
-  </view>
-  <view id="u667_state2" class="panel_state" data-label="状态 10" style="visibility: hidden;">
+  </view></view>
+  <view wx:if="{{situationDynamic==3}}">
+  <view id="u667_state2" class="panel_state" data-label="状态 10" style="">
     <view id="u667_state2_content" class="panel_state_content">
 
       <!-- Unnamed (形状) -->
@@ -101,8 +104,9 @@
         </view>
       </view>
     </view>
-  </view>
-  <view id="u667_state3" class="panel_state" data-label="状态 11" style="visibility: hidden;">
+  </view></view>
+  <view wx:if="{{situationDynamic==4}}">
+  <view id="u667_state3" class="panel_state" data-label="状态 11" style="">
     <view id="u667_state3_content" class="panel_state_content">
 
       <!-- Unnamed (形状) -->
@@ -129,8 +133,10 @@
         </view>
       </view>
     </view>
-  </view>
-  <view id="u667_state4" class="panel_state" data-label="状态 3" style="visibility: hidden;">
+  </view></view>
+
+  <view wx:if="{{situationDynamic==5}}">
+  <view id="u667_state4" class="panel_state" data-label="状态 3" style="">
     <view id="u667_state4_content" class="panel_state_content">
 
       <!-- Unnamed (形状) -->
@@ -157,8 +163,9 @@
         </view>
       </view>
     </view>
-  </view>
-  <view id="u667_state5" class="panel_state" data-label="状态 4" style="visibility: hidden;">
+  </view></view>
+  <view wx:if="{{situationDynamic==6}}">
+  <view id="u667_state5" class="panel_state" data-label="状态 4" style="">
     <view id="u667_state5_content" class="panel_state_content">
 
       <!-- Unnamed (形状) -->
@@ -185,8 +192,9 @@
         </view>
       </view>
     </view>
-  </view>
-  <view id="u667_state6" class="panel_state" data-label="状态 5" style="visibility: hidden;">
+  </view></view>
+  <view wx:if="{{situationDynamic==7}}">
+  <view id="u667_state6" class="panel_state" data-label="状态 5" style="">
     <view id="u667_state6_content" class="panel_state_content">
 
       <!-- Unnamed (形状) -->
@@ -213,8 +221,9 @@
         </view>
       </view>
     </view>
-  </view>
-  <view id="u667_state7" class="panel_state" data-label="状态 6" style="visibility: hidden;">
+  </view></view>
+  <view wx:if="{{situationDynamic==8}}">
+  <view id="u667_state7" class="panel_state" data-label="状态 6" style="">
     <view id="u667_state7_content" class="panel_state_content">
 
       <!-- Unnamed (形状) -->
@@ -241,8 +250,9 @@
         </view>
       </view>
     </view>
-  </view>
-  <view id="u667_state8" class="panel_state" data-label="状态 7" style="visibility: hidden;">
+  </view></view>
+  <view wx:if="{{situationDynamic==9}}">
+  <view id="u667_state8" class="panel_state" data-label="状态 7" style="">
     <view id="u667_state8_content" class="panel_state_content">
 
       <!-- Unnamed (形状) -->
@@ -269,8 +279,8 @@
         </view>
       </view>
     </view>
-  </view>
-</view>
+  </view></view>
+</view></view>
 
 <!-- Unnamed (文本框) -->
 <view id="u695" class="ax_default _文本框">
@@ -289,7 +299,7 @@
 <!-- Unnamed (图片) -->
 <view id="u697" class="ax_default _图片">
   <image id="u697_img" class="img " src="../../../images/加载界面/u3.png"></image>
-  <view id="u697_text" class="text " style="display:none; visibility: hidden">
+  <view id="u697_text" class="text " style="display:none">
     <view></view>
   </view>
 </view>
@@ -297,7 +307,7 @@
 <!-- Unnamed (图片) -->
 <view id="u698" class="ax_default _图片">
   <image id="u698_img" class="img " src="../../../images/选择关卡_选择卡片_/u698.png"></image>
-  <view id="u698_text" class="text " style="display:none; visibility: hidden">
+  <view id="u698_text" class="text " style="display:none">
     <view></view>
   </view>
 </view>
@@ -305,7 +315,7 @@
 <!-- Unnamed (图片) -->
 <view id="u699" class="ax_default _图片">
   <image id="u699_img" class="img " src="../../../images/选择关卡_选择卡片_/u698.png"></image>
-  <view id="u699_text" class="text " style="display:none; visibility: hidden">
+  <view id="u699_text" class="text " style="display:none">
     <view></view>
   </view>
 </view>
@@ -313,20 +323,20 @@
 <!-- Unnamed (图片) -->
 <view id="u700" class="ax_default _图片">
   <image id="u700_img" class="img " src="../../../images/选择关卡_选择卡片_/u698.png"></image>
-  <view id="u700_text" class="text " style="display:none; visibility: hidden">
+  <view id="u700_text" class="text " style="display:none">
     <view></view>
   </view>
 </view>
 
 <!-- Unnamed (动态面板) -->
-<view id="u701" class="ax_default ax_default_hidden" style="display:none; visibility: hidden">
+<view id="u701" class="ax_default ax_default_hidden" style="display:none">
   <view id="u701_state0" class="panel_state" data-label="状态 1" style="">
     <view id="u701_state0_content" class="panel_state_content">
 
       <!-- Unnamed (矩形) -->
       <view id="u702" class="ax_default _形状">
         <view id="u702_div" class=""></view>
-        <view id="u702_text" class="text " style="display:none; visibility: hidden">
+        <view id="u702_text" class="text " style="display:none">
           <view></view>
         </view>
       </view>
@@ -361,7 +371,7 @@
 <!-- Unnamed (图片) -->
 <view id="u706" class="ax_default _图片">
   <image id="u706_img" class="img " src="../../../images/任务页面/u560.png"></image>
-  <view id="u706_text" class="text " style="display:none; visibility: hidden">
+  <view id="u706_text" class="text " style="display:none">
     <view></view>
   </view>
 </view>
