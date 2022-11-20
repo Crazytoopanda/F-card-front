@@ -6,11 +6,33 @@ Page({
      */
     data: {
         hidden1:true,
-
+        sex:true,
+        setsex:true,
+        gender: "昵称",
+        temp:"",
     },
     change1:function(){
         this.setData({
-            hidden1:!this.data.hidden1
+            hidden1:!this.data.hidden1,
+            temp:this.data.gender,
+            sex:this.data.setsex,
+        })
+    },
+    changeset:function(){
+        this.setData({
+            gender:this.data.temp,
+            hidden1:!this.data.hidden1,
+            setsex:this.data.sex,
+        })
+    },
+    getname:function(e){
+        this.setData({
+            temp:e.detail.value,
+        })
+    },
+    changesex:function(){
+        this.setData({
+            sex:!this.data.sex
         })
     },
     gotomain: function(){
