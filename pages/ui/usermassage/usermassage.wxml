@@ -35,11 +35,11 @@
 
 <!-- Unnamed (动态面板) -->
 <view id="u134" class="ax_default">
-  <view id="u134_state0" class="panel_state" data-label="状态 1" style="">
+  <view id="u134_state0" class="panel_state" data-label="状态 1" hidden="{{setsex}}">
     <view id="u134_state0_content" class="panel_state_content">
 
       <!-- Unnamed (组合) -->
-      <view id="u135" class="ax_default" data-left="0.297204204489228" data-top="-0.20279579551077553" data-width="30.405591591021548" data-height="30.40559159102154" layer-opacity="1">
+      <view id="u135" class="ax_default" data-left="1" data-top="3" data-width="24" data-height="24" layer-opacity="1">
 
         <!-- Unnamed (矩形) -->
         <view id="u136" class="ax_default _图片">
@@ -59,7 +59,7 @@
       </view>
     </view>
   </view>
-  <view id="u134_state1" class="panel_state" data-label="状态 2" style="visibility: hidden;">
+  <view id="u134_state1" class="panel_state" data-label="状态 2" hidden="{{!setsex}}">
     <view id="u134_state1_content" class="panel_state_content">
 
       <!-- Unnamed (组合) -->
@@ -89,7 +89,7 @@
 <view id="u141" class="ax_default label">
   <view id="u141_div" class=""></view>
   <view id="u141_text" class="text ">
-    <view><text>昵称</text></view>
+    <view>{{gender}}</view>
   </view>
 </view>
 
@@ -375,7 +375,7 @@
   <!-- Unnamed (文本框) -->
   <view id="u180" class="ax_default text_field">
     <view id="u180_div" class=""></view>
-    <input id="u180_input" type="text" value="" class="u180_input"/>
+    <input id="u180_input" type="text" bindinput="getname" value="{{temp}}" class="u180_input"/>
   </view>
 
   <!-- Unnamed (矩形) -->
@@ -389,9 +389,9 @@
   <!-- Unnamed (单选按钮) -->
   <view id="u182" class="ax_default radio_button" selectiongroup="性别">
     <label id="u182_input_label" for="u182_input" style="position: absolute; left: 0rpx;">
-      <image id="u182_img" class="img " src="../../../images/用户信息界面/u182.svg"></image>
+        <radio color="green" value="male" checked="{{sex}}" bindtap="changesex"> 男</radio>
       <view id="u182_text" class="text ">
-        <view><text>男</text></view>
+
       </view>
     </label>
     <input id="u182_input" type="radio" value="radio" name="性别"/>
@@ -400,9 +400,9 @@
   <!-- Unnamed (单选按钮) -->
   <view id="u183" class="ax_default radio_button" selectiongroup="性别">
     <label id="u183_input_label" for="u183_input" style="position: absolute; left: 0rpx;">
-      <image id="u183_img" class="img " src="../../../images/用户信息界面/u183.svg"></image>
+        <radio color="green" value="female" checked="{{!sex}}" bindtap="changesex"> 女</radio>
       <view id="u183_text" class="text ">
-        <view><text>女</text></view>
+
       </view>
     </label>
     <input id="u183_input" type="radio" value="radio" name="性别"/>
@@ -412,7 +412,7 @@
   <view id="u184" class="ax_default html_button">
     <view id="u184_div" class=""></view>
     <view id="u184_text" class="text ">
-      <view bindtap="change1"><text>确认修改</text></view>
+      <view bindtap="changeset"><text>确认修改</text></view>
     </view>
   </view>
 
