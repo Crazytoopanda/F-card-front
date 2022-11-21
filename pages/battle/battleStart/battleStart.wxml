@@ -23,7 +23,7 @@
   <view id="u699" class="ax_default _段落">
     <image id="u699_img" class="img " src="images/对战开始/u699.svg"></image>
     <view id="u699_text" class="text ">
-      <view><text>游戏开始<text></view>
+      <view><text>游戏开始</text></view>
     </view>
   </view>
 </view>
@@ -228,7 +228,7 @@
 <view id="u726" class="ax_default _形状">
   <image id="u726_img" class="img " src="images/对战开始/u726.svg"></image>
   <view id="u726_text" class="text ">
-    <view><text>玩家<text></view>
+    <view><text>玩家</text></view>
   </view>
 </view>
 
@@ -236,7 +236,7 @@
 <view id="u727" class="ax_default _段落">
   <view id="u727_div" class=""></view>
   <view id="u727_text" class="text ">
-    <view><text>我是帅哥<text></view>
+    <view><text>我是帅哥</text></view>
   </view>
 </view>
 
@@ -244,7 +244,7 @@
 <view id="u728" class="ax_default _段落">
   <view id="u728_div" class=""></view>
   <view id="u728_text" class="text ">
-    <view><text>势均力敌的AI<text></view>
+    <view><text>势均力敌的AI</text></view>
   </view>
 </view>
 
@@ -289,7 +289,7 @@
       <view id="u734" class="ax_default _段落">
         <view id="u734_div" class=""></view>
         <view id="u734_text" class="text ">
-          <view><text>是否退出？<text></view>
+          <view><text>是否退出？</text></view>
         </view>
       </view>
 
@@ -297,7 +297,7 @@
       <view id="u735" class="ax_default _形状">
         <view id="u735_div" class=""></view>
         <view id="u735_text" class="text ">
-          <view><text>确认<text></view>
+          <view><text>确认</text></view>
         </view>
       </view>
 
@@ -305,7 +305,7 @@
       <view id="u736" class="ax_default _形状">
         <view id="u736_div" class=""></view>
         <view id="u736_text" class="text ">
-          <view><text>取消<text></view>
+          <view><text>取消</text></view>
         </view>
       </view>
     </view>
