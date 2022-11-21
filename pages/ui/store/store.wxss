@@ -3036,7 +3036,7 @@ body {
     left:0px;
     top:0px;
     width:384px;
-    height:168px;
+    height:150px;
     background:inherit;
     background-color:rgba(250, 205, 145, 0.996078431372549);
     box-sizing:border-box;
@@ -3138,8 +3138,8 @@ body {
     border-width:0px;
     position:absolute;
     left:246px;
-    top:190px;
-    width:300px;
+    top:200px;
+    width:350px;
     height:68px;
     display:flex;
     font-family:"华光中雅_CNKI", sans-serif;
@@ -3182,7 +3182,7 @@ body {
     border-width:0px;
     position:absolute;
     left:246px;
-    top:162px;
+    top:170px;
     width:360px;
     height:17px;
     display:flex;
@@ -4312,6 +4312,24 @@ body {
     white-space:nowrap;
     text-transform:none;
   }
+  #u343_div {
+    border-width:0px;
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:840px;
+    height:390px;
+    background:inherit;
+    background-color:#555555;
+    box-sizing:border-box;
+    border-width:1px;
+    border-style:solid;
+    border-color:#555555;
+    border-radius:0px;
+    -moz-box-shadow:none;
+    -webkit-box-shadow:none;
+    box-shadow:none;
+  }
   #u343 {
     border-width:0px;
     position:absolute;
@@ -4320,7 +4338,6 @@ body {
     width:844px;
     height:390px;
     display:flex;
-    columns: #555555;
     opacity:0.7;
   }
   #u343 .text {
@@ -4336,6 +4353,24 @@ body {
     text-transform:none;
     visibility:hidden;
   }
+  #u344_div {
+    border-width:0px;
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:840px;
+    height:390px;
+    background:inherit;
+    background-color:#555555;
+    box-sizing:border-box;
+    border-width:1px;
+    border-style:solid;
+    border-color:#555555;
+    border-radius:0px;
+    -moz-box-shadow:none;
+    -webkit-box-shadow:none;
+    box-shadow:none;
+  }
   #u344 {
     border-width:0px;
     position:absolute;
@@ -4344,7 +4379,6 @@ body {
     width:844px;
     height:390px;
     display:flex;
-    columns: #555555;
     opacity:0.7;
   }
   #u344 .text {
