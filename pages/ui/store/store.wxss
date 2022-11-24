@@ -329,7 +329,7 @@ body {
     position:absolute;
     left:556px;
     top:26px;
-    width:33px;
+    width:50px;
     height:16px;
     display:flex;
     font-family:"Impact Normal", "Impact", sans-serif;

@@ -33,7 +33,7 @@
 </view>
 
 <!-- Unnamed (矩形) -->
-<view id="u201" class="ax_default label">
+<view id="u201" class="ax_default label" bindtap="getUsers">
   <view id="u201_div" class=""></view>
   <view id="u201_text" class="text ">
     <view><text>商店</text></view>

@@ -1,8 +1,5 @@
 // pages/ui/store/store.js
 const app = getApp()
-var uid = app.global.uid
-var collegeInfluence = app.global.collegeInfluence
-var coin = app.global.coin
 
 Page({
 
@@ -15,7 +12,10 @@ Page({
         hid_lightBox1:true,
         hid_lightBox2:true,
         drawedCard_name: "",
-        rank: ""
+        rank: "",
+        coin : app.globalData.user.coin,
+        uid: app.globalData.user.uid,
+        collegeInfluence: app.globalData.user.collegeInfluence
     },
 
     /**
@@ -28,22 +28,42 @@ Page({
 
     },
 
+    getUsers:function(){
+        wx.request({
+          url: 'http://110.40.186.46:8088/user/listuser',
+          header:{  
+            'content-type': 'application/json'
+          },
+          method:'GET',  
+          responseType:'JSON', 
+          success:(res)=>{
+            console.log(res)
+          },
+          fail(){  
+            console.log('fail')
+          },
+          complete(){   
+            console.log('complete')   
+          }
+        })
+        
+    },
+
     /**
      * 用户点击“走访”抽卡一次
      */
     drawCard:function(){
-        if (coin < 500) {
+        if (this.data.coin < 500) {
             wx.showToast({
               title: '金币不足！',
             })
         }
         else{
-            app.global.coin = coin - 500
             wx.request({
-                url:'http://www.fcard.site:8088/personalCard/rollpersonalcard', //必填，其他的都可以不填
+                url:'http://110.40.186.46:8088/personalCard/rollpersonalcard', //必填，其他的都可以不填
                 data:{  
-                   uid, 
-                   collegeInfluence
+                   uid:this.data.uid, 
+                   collegeInfluce:this.data.collegeInfluence
                 },
                 header:{  
                    'content-type':'application/json'
@@ -57,7 +77,8 @@ Page({
                         drawedCard_name: res.data.cardName,
                         rank: res.data.rank,
                         hid_drawCard: !this.data.hid_drawCard,
-                        hid_lightBox1: !this.data.hid_lightBox1
+                        hid_lightBox1: !this.data.hid_lightBox1,
+                        coin: this.data.coin - 500
                     })
 
                 },

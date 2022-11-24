@@ -9,6 +9,15 @@ Page({
     },
 
     /**
+     * 用户点击商店
+     */
+    gotoStore:function() {
+        wx.navigateTo({
+          url: '../../../pages/ui/store/store',
+        })
+    },
+    
+    /**
      * 生命周期函数--监听页面加载
      */
     onLoad(options) {
@@ -62,14 +71,5 @@ Page({
      */
     onShareAppMessage() {
 
-    },
-
-    /**
-     * 用户点击商店
-     */
-    gotoStore:function() {
-        wx.navigateTo({
-          url: '../../../pages/ui/store/store',
-        })
     }
 })
