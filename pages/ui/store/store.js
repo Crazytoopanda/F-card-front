@@ -37,7 +37,7 @@ Page({
           method:'GET',  
           responseType:'JSON', 
           success:(res)=>{
-            console.log(res)
+            console.log("successfully", res)
           },
           fail(){  
             console.log('fail')
