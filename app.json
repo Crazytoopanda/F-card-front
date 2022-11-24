@@ -1,10 +1,10 @@
 {
     "pages":[
+    "pages/ui/Loginpages/Loginpages",
     "pages/ui/store/store",
+    "pages/ui/IDlogin/IDlogin",
     "pages/ui/task1/task1",
     "pages/ui/mainDisplay/mainDisplay",
-    "pages/ui/Loginpages/Loginpages",
-    "pages/ui/IDlogin/IDlogin",
     "pages/ui/setting/setting",
     "pages/ui/usermassage/usermassage",
     "pages/battle/chooseLevel/chooseLevel",

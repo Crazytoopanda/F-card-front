@@ -33,7 +33,7 @@
 </view>
 
 <!-- Unnamed (矩形) -->
-<view id="u201" class="ax_default label">
+<view id="u201" class="ax_default label" bindtap="getUsers">
   <view id="u201_div" class=""></view>
   <view id="u201_text" class="text ">
     <view><text>商店</text></view>
@@ -75,7 +75,7 @@
   <view id="u207" class="ax_default _段落">
     <view id="u207_div" class=""></view>
     <view id="u207_text" class="text ">
-      <view><text>500</text></view>
+      <view><text>{{coin}}</text></view>
     </view>
   </view>
 </view>
@@ -750,6 +750,13 @@
 
 <!-- Unnamed (组合) -->
 <view id="u300" class="ax_default ax_default_hidden" data-left="229" data-top="113" data-width="384" data-height="168" layer-opacity="1" hidden="{{hid_help}}">
+  <!-- Unnamed (矩形) -->
+  <view id="u344" class="ax_default label"  hidden="{{hid_lightBox2}}">
+        <view id="u344_div" class="" bindtap="viewHelp"></view>
+            <view id="u344_text" class="text " style="display:none; visibility: hidden">
+            <view></view>
+        </view>
+    </view>
 
   <!-- Unnamed (矩形) -->
   <view id="u301" class="ax_default box_1">
@@ -771,7 +778,7 @@
   <view id="u303" class="ax_default _段落">
     <view id="u303_div" class=""></view>
     <view id="u303_text" class="text ">
-      <view><text>●获得卡牌概率以等级划分，具体如下：</text></view><view><text>      教授级别：4%</text></view><view><text>      副教授级别：18%</text></view><view><text>      讲师级别：78%</text></view>
+      <view><text>●获得卡牌概率受学院影响力影响，影响力越高，获得高类型卡牌的概率越高</text></view>
     </view>
   </view>
 
@@ -782,18 +789,17 @@
       <view><text>●走访一次可以随机获得一张卡牌（包括已拥有卡牌）</text></view>
     </view>
   </view>
-  <!-- Unnamed (矩形) -->
-  <view id="u344" class="ax_default label" bindtap="viewHelp" hidden="{{hid_lightBox2}}">
-    <view id="u344_div" class=""></view>
-      <view id="u344_text" class="text " style="display:none; visibility: hidden">
-          <view></view>
-      </view>
-  </view>
 </view>
 
 <!-- Unnamed (组合) -->
 <view id="u305" class="ax_default ax_default_hidden" data-left="223" data-top="0" data-width="390" data-height="390" layer-opacity="1" hidden="{{hid_drawCard}}">
-
+    <!-- Unnamed (矩形) -->
+    <view id="u343" class="ax_default label" >
+            <view id="u343_div" class=""  bindtap="drawCard"  hidden="{{hid_lightBox1}}"></view>
+                <view id="u343_text" class="text " style="display:none; visibility: hidden">
+                    <view></view>
+                </view>
+    </view>
   <!-- Unnamed (图片) -->
   <view id="u306" class="ax_default _图片">
     <image id="u306_img" class="img " src="../../../images/商店抽卡/u306.png"></image>
@@ -1062,15 +1068,8 @@
   <view id="u342" class="ax_default label">
     <view id="u342_div" class=""></view>
     <view id="u342_text" class="text ">
-      <view><text>恭喜获得一张教授卡牌！</text></view>
+      <view><text>恭喜获得一张{{drawedCard_name}}卡牌！</text></view>
     </view>
-  </view>
-  <!-- Unnamed (矩形) -->
-  <view id="u343" class="ax_default label" bindtap="drawCard" hidden="{{hid_lightBox1}}">
-    <view id="u343_div" class=""></view>
-        <view id="u343_text" class="text " style="display:none; visibility: hidden">
-            <view></view>
-        </view>
   </view>
 </view>
 </view>
