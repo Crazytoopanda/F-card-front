@@ -42,6 +42,20 @@
                     "query": "",
                     "launchMode": "default",
                     "scene": null
+                },
+                {
+                    "name": "",
+                    "pathName": "pages/ui/store/store",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "",
+                    "pathName": "pages/ui/Loginpages/Loginpages",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
                 }
             ]
         }

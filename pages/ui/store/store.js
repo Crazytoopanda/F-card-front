@@ -28,32 +28,11 @@ Page({
 
     },
 
-    getUsers:function(){
-        wx.request({
-          url: 'http://110.40.186.46:8088/user/listuser',
-          header:{  
-            'content-type': 'application/json'
-          },
-          method:'GET',  
-          responseType:'JSON', 
-          success:(res)=>{
-            console.log("successfully", res)
-          },
-          fail(){  
-            console.log('fail')
-          },
-          complete(){   
-            console.log('complete')   
-          }
-        })
-        
-    },
-
     /**
      * 用户点击“走访”抽卡一次
      */
     drawCard:function(){
-        if (this.data.coin < 500) {
+        if (this.data.coin < 1000) {
             wx.showToast({
               title: '金币不足！',
             })
@@ -62,25 +41,39 @@ Page({
             wx.request({
                 url:'http://110.40.186.46:8088/personalCard/rollpersonalcard', //必填，其他的都可以不填
                 data:{  
-                   uid:this.data.uid, 
-                   collegeInfluce:this.data.collegeInfluence
+                   "uid":app.globalData.user.uid, 
+                   "collegeInfluence":app.globalData.user.collegeInfluence
                 },
                 header:{  
                    'content-type':'application/json'
                 },
                 method:'POST',  
-                dataType:'JSON',  
-                responseType:'JSON', 
-                success(res){
+                success:(res)=>{
                     console.log(res)
                     this.setData({
-                        drawedCard_name: res.data.cardName,
-                        rank: res.data.rank,
+                        coin: this.data.coin - 1000,
+                        drawedCard_name: res.data.personalCard.cardName,
+                        rank: res.data.personalCard.rank,
                         hid_drawCard: !this.data.hid_drawCard,
-                        hid_lightBox1: !this.data.hid_lightBox1,
-                        coin: this.data.coin - 500
+                        hid_lightBox1: !this.data.hid_lightBox1
                     })
-
+                    wx.request({
+                      url: 'http://110.40.186.46:8088/user/updateuser ',
+                      data:{  
+                        "uid":app.globalData.user.uid,
+                        "coin": this.data.coin
+                     },
+                     header:{  
+                        'content-type':'application/json'
+                     },
+                     method:'POST', 
+                     success:(res)=>{
+                         console.log(res)
+                     },
+                     fail:()=>{
+                        console.log('failed!')
+                     }
+                    })
                 },
                 fail(){  
                     console.log('fail')
@@ -90,6 +83,15 @@ Page({
     
     },
 
+    /**
+     * 抽完卡点击背景弹窗消失
+     */
+    hidDrawCard:function () {
+        this.setData({
+            hid_drawCard: !this.data.hid_drawCard,
+            hid_lightBox1: !this.data.hid_lightBox1,
+        })
+    },
     /**
      * 用户点击“？”显示帮助
      */

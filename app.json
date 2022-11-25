@@ -2,7 +2,6 @@
     "pages":[
     "pages/ui/Loginpages/Loginpages",
     "pages/ui/store/store",
-    "pages/ui/IDlogin/IDlogin",
     "pages/ui/task1/task1",
     "pages/ui/mainDisplay/mainDisplay",
     "pages/ui/setting/setting",

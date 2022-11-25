@@ -63,7 +63,7 @@
   <view id="u8" class="ax_default primary_button">
     <view id="u8_div" class=""></view>
     <view id="u8_text" class="text ">
-      <view bindtap="getOpenId"><text>一键登录</text></view>
+      <view bindtap="LoginOrRegister"><text>一键登录</text></view>
     </view>
   </view>
 
@@ -71,8 +71,191 @@
   <view id="u9" class="ax_default primary_button">
     <view id="u9_div" class=""></view>
     <view id="u9_text" class="text ">
-      <view bindtap="gotoid"><text>ID登录</text></view>
+      <view bindtap="hidIDLogin"><text>ID登录</text></view>
     </view>
   </view>
+
+<!-- 输入密码框 (组合) -->
+<view id="u11" class="ax_default" data-label="输入密码框" data-left="276" data-top="167" data-width="293" data-height="119" layer-opacity="1"  hidden="{{hid_IDLogin}}">
+<!-- Unnamed (矩形) -->
+  <view id="u45" class="ax_default label" >
+            <view id="u45_div" class=""  hidden="{{hid_lightBox2}}"></view>
+                <view id="u45_text" class="text " style="display:none; visibility: hidden">
+                    <view></view>
+                </view>
+  </view>
+<!-- Unnamed (图片) -->
+<view id="u12" class="ax_default _图片">
+  <image id="u12_img" class="img " src="../../../images/id登录输入密码/u22.svg"></image>
+  <view id="u12_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+
+<!-- Unnamed (矩形) -->
+<view id="u13" class="ax_default sticky_1">
+      <image id="u13_img" class="img " src="../../../images/id登录输入密码/u17.svg"/>
+      <view id="u13_text" class="text ">
+        <view><text>密码</text></view>
+      </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u14" class="ax_default primary_button">
+      <view id="u14_div" class=""></view>
+      <view id="u14_text" class="text ">
+        <view bindtap="IDLogin"><text>确定</text></view>
+      </view>
+    </view>
+
+<!-- Unnamed (文本框) -->
+<view id="u15" class="ax_default text_field"> 
+  <view id="u15_div" class=""></view>
+  <input id="u15_input" bindinput="inputPassword" type="text" value="{{password}}" class="u15_input"/>
+</view>
+
+<!-- Unnamed (文本框) -->
+<view id="u16" class="ax_default text_field"> 
+  <view id="u16_div" class=""></view>
+  <input id="u16_input" bindinput="inputID" type="text" value="{{UID}}" class="u16_input"/>
+</view>
+<!-- Unnamed (矩形) -->
+<view id="u17" class="ax_default sticky_1">
+      <image id="u17_img" class="img " src="../../../images/id登录输入密码/u17.svg"/>
+      <view id="u17_text" class="text ">
+        <view><text>ID</text></view>
+      </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u18" class="ax_default primary_button">
+      <view id="u18_div" class=""></view>
+      <view id="u18_text" class="text ">
+        <view bindtap="hidIDLogin"><text>取消</text></view>
+      </view>
+</view>
+</view>
+
+<!-- Unnamed (注册) -->
+<view id="u21" class="ax_default" hidden="{{hid_register}}">
+<!-- Unnamed (矩形) -->
+<view id="u44" class="ax_default label" >
+            <view id="u44_div" class=""  hidden="{{hid_lightBox1}}"></view>
+                <view id="u44_text" class="text " style="display:none; visibility: hidden">
+                    <view></view>
+                </view>
+    </view>
+
+<!-- Unnamed (图片) -->
+<view id="u22" class="ax_default _图片">
+  <image id="u22_img" class="img " src="../../../images/注册信息填写/u22.png"/>
+  <!-- Unnamed () -->
+  <view id="u23" class="text" style="display: none; visibility: hidden">
+    <view><text></text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u24" class="ax_default sticky_1">
+  <image id="u24_img" class="img " src="../../../images/注册信息填写/u24.png"/>
+  <!-- Unnamed () -->
+  <view id="u25" class="text" style="visibility: visible;">
+    <view><text>填写注册信息</text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u26" class="ax_default primary_button" bindtap="createUser">
+  <view id="u26_div" class=""></view>
+  <view id="u26_text" class="text">
+      <view><text>确定</text></view>
+    </view>
+</view>
+<view id="u27" class="ax_default primary_button" bindtap="hidRegister">
+  <view id="u27_div" class=""></view>
+  <view id="u27_text" class="text">
+      <view><text>取消</text></view>
+    </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u28" class="ax_default">
+
+  <!-- Unnamed (文本框) -->
+  <view id="u29" class="ax_default text_field">
+    <input id="u29_input" bindinput="setPassword" type="text" value="{{password}}"/>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u30" class="ax_default label">
+    <view id="u30_div" class=""></view>
+    <!-- Unnamed () -->
+    <view id="u31" class="text" style="visibility: visible;">
+      <view><text>密码</text></view>
+    </view>
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u32" class="ax_default">
+
+  <!-- Unnamed (文本框) -->
+  <view id="u33" class="ax_default text_field">
+    <input id="u33_input" bindinput="setName" type="text" value="{{name}}"/>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u34" class="ax_default label">
+    <view id="u34_div" class=""></view>
+    <!-- Unnamed () -->
+    <view id="u35" class="text" style="visibility: visible;">
+      <view><text>昵称</text></view>
+    </view>
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u36" class="ax_default">
+
+  <!-- Unnamed (矩形) -->
+  <view id="u37" class="ax_default label">
+    <view id="u37_div" class=""></view>
+    <!-- Unnamed () -->
+    <view id="u38" class="text" style="visibility: visible;">
+      <view><text>性别</text></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (下拉列表框) -->
+  <view id="u39" class="ax_default droplist">
+    <label id="u39_input"  style="position: absolute; left: 0rpx;">
+        <radio color="green" value="male" checked="{{sexFlag}}" bindtap="setSex"> 男</radio>
+        <radio color="green" value="female" checked="{{!sexFlag}}" bindtap="setSex"> 女</radio>
+    </label>
+    
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u40" class="ax_default">
+
+  <!-- Unnamed (矩形) -->
+  <view id="u41" class="ax_default label">
+    <view id="u41_div" class=""></view>
+    <!-- Unnamed () -->
+    <view id="u42" class="text" style="visibility: visible;">
+      <view><text>学院</text></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (下拉列表框) -->
+  <view id="u43" class="ax_default droplist">
+    <view id="u43_input" class="">
+    <input type="text" bindinput="setCollege" value="{{college}}"/>
+    </view>
+    </view>
+</view>
+</view>
 </view>
 </view>

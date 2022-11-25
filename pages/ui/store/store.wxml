@@ -795,7 +795,7 @@
 <view id="u305" class="ax_default ax_default_hidden" data-left="223" data-top="0" data-width="390" data-height="390" layer-opacity="1" hidden="{{hid_drawCard}}">
     <!-- Unnamed (矩形) -->
     <view id="u343" class="ax_default label" >
-            <view id="u343_div" class=""  bindtap="drawCard"  hidden="{{hid_lightBox1}}"></view>
+            <view id="u343_div" class=""  bindtap="hidDrawCard"  hidden="{{hid_lightBox1}}"></view>
                 <view id="u343_text" class="text " style="display:none; visibility: hidden">
                     <view></view>
                 </view>
@@ -847,7 +847,7 @@
             <view id="u315" class="ax_default _文本段落 selected">
               <view id="u315_div" class="selected"></view>
               <view id="u315_text" class="text ">
-                <view><text>教授</text></view>
+                <view><text>{{rank}}</text></view>
               </view>
             </view>
 
@@ -855,7 +855,7 @@
             <view id="u316" class="ax_default _文本段落 selected">
               <view id="u316_div" class="selected"></view>
               <view id="u316_text" class="text ">
-                <view><text>陈凤德2</text></view>
+                <view><text>{{drawedCard_name}}</text></view>
               </view>
             </view>
           </view>
@@ -1068,7 +1068,7 @@
   <view id="u342" class="ax_default label">
     <view id="u342_div" class=""></view>
     <view id="u342_text" class="text ">
-      <view><text>恭喜获得一张{{drawedCard_name}}卡牌！</text></view>
+      <view><text>恭喜获得一张{{rank}}卡牌！</text></view>
     </view>
   </view>
 </view>

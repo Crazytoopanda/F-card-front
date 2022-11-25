@@ -19,8 +19,8 @@ App({
     rank_list_data11: "",
     rank_list_data12:"",
     user: {
-    "collegeInfluence":100,
-      "coin":500,
+    "collegeInfluence":999,
+      "coin":5000,
       "name":"李福安" ,
       "password":"123456" ,
       "college":"计算机学院" ,
@@ -30,7 +30,7 @@ App({
       "battle":0,
       "win":0,
       "towerNumber":99,
-      "uid":"668866" 
+      "uid":"679817" 
       },
     userInfo: null
   }
