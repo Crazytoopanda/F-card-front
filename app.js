@@ -13,16 +13,24 @@ App({
       }
     })
   },
+
+  
   globalData: {
     rank_list_data11: "",
     rank_list_data12:"",
     user: {
-        "collegeInfluence": 50,
-        "grade": 100,
-        "name": "李福安",
-        "rank": 1,
-        "college": "计算机学院",
-        "dateTime": "2022-11-4"
+    "collegeInfluence":100,
+      "coin":500,
+      "name":"李福安" ,
+      "password":"123456" ,
+      "college":"计算机学院" ,
+      "phoneNumber":"13110677554" ,
+      "dateTime":"2022-07-04 00:00:00" ,
+      "sex":"男" ,
+      "battle":0,
+      "win":0,
+      "towerNumber":99,
+      "uid":"668866" 
       },
     userInfo: null
   }

@@ -37,6 +37,7 @@ body {
   #u26 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -68,6 +69,7 @@ body {
   #u27 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -116,6 +118,7 @@ body {
   #u29 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -146,6 +149,7 @@ body {
   #u30 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -184,6 +188,7 @@ body {
   #u32 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -214,6 +219,7 @@ body {
   #u33 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -244,6 +250,7 @@ body {
   #u34 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -282,6 +289,7 @@ body {
   #u36 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -312,6 +320,7 @@ body {
   #u37 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -342,6 +351,7 @@ body {
   #u38 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -380,6 +390,7 @@ body {
   #u40 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -410,41 +421,12 @@ body {
   #u41 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
   }
   #u41_text {
-    border-width:0px;
-    word-wrap:break-word;
-    text-transform:none;
-    visibility:hidden;
-  }
-  #u42_img {
-    border-width:0px;
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:48px;
-    height:41px;
-  }
-  #u42 {
-    border-width:0px;
-    position:absolute;
-    left:33px;
-    top:228px;
-    width:48px;
-    height:41px;
-    display:flex;
-  }
-  #u42 .text {
-    position:absolute;
-    align-self:center;
-    padding:2px 2px 2px 2px;
-    box-sizing:border-box;
-    width:100%;
-  }
-  #u42_text {
     border-width:0px;
     word-wrap:break-word;
     text-transform:none;
@@ -478,6 +460,7 @@ body {
   #u44 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -508,6 +491,7 @@ body {
   #u45 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -632,6 +616,7 @@ body {
   #u49 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -662,6 +647,7 @@ body {
   #u50 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -790,6 +776,7 @@ body {
   #u53 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -823,6 +810,7 @@ body {
   #u54 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -909,6 +897,7 @@ body {
   #u57 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -944,6 +933,7 @@ body {
   #u58 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -980,6 +970,7 @@ body {
   #u59 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -1013,6 +1004,7 @@ body {
   #u60 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -1053,6 +1045,7 @@ body {
   #u61 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -1091,6 +1084,7 @@ body {
   #u63 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -1125,6 +1119,7 @@ body {
   #u64 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -1156,6 +1151,7 @@ body {
   #u65 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -1186,6 +1182,7 @@ body {
   #u66 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -1308,6 +1305,7 @@ body {
   #u67 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -1401,6 +1399,7 @@ body {
   #u68 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -1439,6 +1438,7 @@ body {
   #u70 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -1473,6 +1473,7 @@ body {
   #u71 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -1595,6 +1596,7 @@ body {
   #u72 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -1689,6 +1691,7 @@ body {
   #u73 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -1719,6 +1722,7 @@ body {
   #u74 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -1749,6 +1753,7 @@ body {
   #u75 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -1795,6 +1800,7 @@ body {
   #u78 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -1829,6 +1835,7 @@ body {
   #u79 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -1951,6 +1958,7 @@ body {
   #u80 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -2044,6 +2052,7 @@ body {
   #u81 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -2074,6 +2083,7 @@ body {
   #u82 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -2158,6 +2168,7 @@ body {
   #u84 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
@@ -2191,11 +2202,46 @@ body {
   #u85 .text {
     position:absolute;
     align-self:center;
+    text-align: center;
     padding:2px 2px 2px 2px;
     box-sizing:border-box;
     width:100%;
   }
   #u85_text {
+    border-width:0px;
+    word-wrap:break-word;
+    text-transform:none;
+  }
+  #u86_img {
+    border-width:0px;
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:65px;
+    height:66px;
+  }
+  #u86 {
+    border-width:0px;
+    position:absolute;
+    left:606px;
+    top:323px;
+    width:55px;
+    height:56px;
+    display:flex;
+    font-family:"方正姚体", sans-serif;
+    font-weight:400;
+    font-style:normal;
+    font-size:19px;
+  }
+  #u86 .text {
+    position:absolute;
+    align-self:center;
+    text-align: center;
+    padding:2px 2px 2px 2px;
+    box-sizing:border-box;
+    width:100%;
+  }
+  #u86_text {
     border-width:0px;
     word-wrap:break-word;
     text-transform:none;

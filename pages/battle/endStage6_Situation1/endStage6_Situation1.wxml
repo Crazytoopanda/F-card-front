@@ -1,0 +1,182 @@
+<view id="base" class="">
+
+<!-- Unnamed (图片) -->
+<view id="u1037" class="ax_default _图片">
+  <image id="u1037_img" class="img " src="../../../images/对战开始/u708.png"></image>
+  <view id="u1037_text" class="text " style="display:none; visibility: hidden">
+    <view></view>
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u1038" class="ax_default ax_default_hidden" style="display:none; visibility: hidden" data-left="74" data-top="161" data-width="71" data-height="89" layer-opacity="1">
+
+  <!-- Unnamed (图片) -->
+  <view id="u1039" class="ax_default _图片">
+    <image id="u1039_img" class="img " src="../../../images/对战开始/u736.png"></image>
+    <view id="u1039_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (椭圆) -->
+  <view id="u1040" class="ax_default _形状">
+    <image id="u1040_img" class="img " src="../../../images/对战开始/u738.svg"></image>
+    <view id="u1040_text" class="text ">
+      <view><text>玩家</text></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u1041" class="ax_default _段落">
+    <view id="u1041_div" class=""></view>
+    <view id="u1041_text" class="text ">
+      <view><text>我是帅哥</text></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u1042" class="ax_default _图片">
+    <image id="u1042_img" class="img " src="../../../images/用户信息界面/u133.png"></image>
+    <view id="u1042_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u1043" class="ax_default ax_default_hidden" style="display:none; visibility: hidden" data-left="694" data-top="162" data-width="94" data-height="89" layer-opacity="1">
+
+  <!-- Unnamed (图片) -->
+  <view id="u1044" class="ax_default _图片">
+    <image id="u1044_img" class="img " src="../../../images/对战开始/u736.png"></image>
+    <view id="u1044_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u1045" class="ax_default _段落">
+    <view id="u1045_div" class=""></view>
+    <view id="u1045_text" class="text ">
+      <view><text>势均力敌的AI</text></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u1046" class="ax_default _图片">
+    <image id="u1046_img" class="img " src="../../../images/对战开始/u741.svg"></image>
+    <view id="u1046_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u1047" class="ax_default _图片">
+    <image id="u1047_img" class="img " src="../../../images/用户信息界面/u133.png"></image>
+    <view id="u1047_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u1048" class="ax_default ax_default_hidden" style="display:none; visibility: hidden" data-left="614" data-top="172" data-width="73" data-height="69" layer-opacity="1">
+
+  <!-- Unnamed (图片) -->
+  <view id="u1049" class="ax_default _图片">
+    <image id="u1049_img" class="img " src="../../../images/结束游戏_成功_/u1049.svg"></image>
+    <view id="u1049_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u1050" class="ax_default _段落">
+    <image id="u1050_img" class="img " src="../../../images/结束游戏_成功_/u1050.svg"></image>
+    <view id="u1050_text" class="text ">
+      <view><text>399</text></view>
+    </view>
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u1051" class="ax_default ax_default_hidden" style="display:none; visibility: hidden" data-left="152" data-top="172" data-width="73" data-height="69" layer-opacity="1">
+
+  <!-- Unnamed (图片) -->
+  <view id="u1052" class="ax_default _图片">
+    <image id="u1052_img" class="img " src="../../../images/结束游戏_成功_/u1049.svg"></image>
+    <view id="u1052_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u1053" class="ax_default _段落">
+    <image id="u1053_img" class="img " src="../../../images/结束游戏_成功_/u1050.svg"></image>
+    <view id="u1053_text" class="text ">
+      <view><text>432</text></view>
+    </view>
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u1054" class="ax_default ax_default_hidden" style="display:none; visibility: hidden" data-left="303" data-top="133" data-width="233" data-height="145" layer-opacity="1">
+
+  <!-- Unnamed (图片) -->
+  <view id="u1055" class="ax_default _图片">
+    <image id="u1055_img" class="img " src="../../../images/结束游戏_成功_/u1055.svg"></image>
+    <view id="u1055_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u1056" class="ax_default _段落">
+    <image id="u1056_img" class="img " src="../../../images/结束游戏_成功_/u1056.svg"></image>
+    <view id="u1056_text" class="text ">
+      <view style="font-size:34rpx;"><text style="font-size:40rpx;">胜利！</text></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u1057" class="ax_default image">
+    <image id="u1057_img" class="img " src="../../../images/主界面/u45.png"></image>
+    <view id="u1057_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (图片) -->
+  <view id="u1058" class="ax_default image">
+    <image id="u1058_img" class="img " src="../../../images/主界面/u50.png"></image>
+    <view id="u1058_text" class="text " style="display:none; visibility: hidden">
+      <view></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u1059" class="ax_default button">
+    <image id="u1059_img" class="img " src="../../../images/结束游戏_成功_/u1059.svg"></image>
+    <view id="u1059_text" class="text ">
+      <view><text>+10</text></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u1060" class="ax_default button">
+    <image id="u1060_img" class="img " src="../../../images/结束游戏_成功_/u1059.svg"></image>
+    <view id="u1060_text" class="text ">
+      <view><text>+10</text></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u1061" class="ax_default primary_button">
+    <view id="u1061_div" class=""></view>
+    <view id="u1061_text" class="text ">
+      <view><text>确认</text></view>
+    </view>
+  </view>
+</view>
+</view>
