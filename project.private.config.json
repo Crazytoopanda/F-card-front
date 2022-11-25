@@ -3,7 +3,7 @@
     "projectname": "F-card-front",
     "setting": {
         "compileHotReLoad": true,
-        "urlCheck": true
+        "urlCheck": false
     },
     "condition": {
         "miniprogram": {
@@ -39,6 +39,20 @@
                 {
                     "name": "",
                     "pathName": "pages/battle/battleStart/battleStart",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "",
+                    "pathName": "pages/ui/setting/setting",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "",
+                    "pathName": "pages/ui/information/information",
                     "query": "",
                     "launchMode": "default",
                     "scene": null
