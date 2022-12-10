@@ -1,0 +1,206 @@
+<!--pages/ui/information/information.wxml-->
+<view id="base" class="">
+
+<!-- 主界面 (组合) -->
+<view id="u0" class="ax_default" data-label="主界面">
+
+<!-- Unnamed (图片) -->
+<view id="u1" class="ax_default _图片">
+  <image id="u1_img" class="img " src="../../../images/注册信息填写/u1.png"/>
+  <!-- Unnamed () -->
+  <view id="u2" class="text" style="display: none; visibility: hidden">
+    <view><text></text></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u3" class="ax_default _图片">
+  <image id="u3_img" class="img " src="../../../images/注册信息填写/u3.png"/>
+  <!-- Unnamed () -->
+  <view id="u4" class="text" style="display: none; visibility: hidden">
+    <view><text></text></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u5" class="ax_default _图片">
+  <image id="u5_img" class="img " src="../../../images/注册信息填写/u5.png"/>
+  <!-- Unnamed () -->
+  <view id="u6" class="text" style="display: none; visibility: hidden">
+    <view><text></text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u7" class="ax_default sticky_1">
+  <image id="u7_img" class="img " src="../../../images/注册信息填写/u7.png"/>
+  <!-- Unnamed () -->
+  <view id="u8" class="text" style="visibility: visible;">
+    <view><text>抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防受骗上当。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。</text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u9" class="ax_default sticky_1">
+  <image id="u9_img" class="img " src="../../../images/注册信息填写/u9.png"/>
+  <!-- Unnamed () -->
+  <view id="u10" class="text" style="visibility: visible;">
+    <view><text>F++</text></view>
+  </view>
+</view>
+
+<!-- Unnamed (图片) -->
+<view id="u11" class="ax_default _图片">
+  <image id="u11_img" class="img " src="../../../images/注册信息填写/u11.png"/>
+  <!-- Unnamed () -->
+  <view id="u12" class="text" style="display: none; visibility: hidden">
+    <view><text></text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u13" class="ax_default sticky_1">
+  <image id="u13_img" class="img " src="../../../images/注册信息填写/u13.png"/>
+  <!-- Unnamed () -->
+  <view id="u14" class="text" style="visibility: visible;">
+    <view><text>明德至诚，博学远志</text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u15" class="ax_default primary_button">
+  <view id="u15_div" class=""></view>
+  <!-- Unnamed () -->
+  <view id="u16" class="text" style="visibility: visible;">
+    <view><text>一键登录</text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u17" class="ax_default primary_button">
+  <view id="u17_div" class=""></view>
+  <!-- Unnamed () -->
+  <view id="u18" class="text" style="visibility: visible;">
+    <view><text>ID登录</text></view>
+  </view>
+</view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u19" class="ax_default box_1">
+<view id="u19_div" class=""></view>
+<!-- Unnamed () -->
+<view id="u20" class="text" style="display: none; visibility: hidden">
+  <view><text></text></view>
+</view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u21" class="ax_default">
+
+<!-- Unnamed (图片) -->
+<view id="u22" class="ax_default _图片">
+  <image id="u22_img" class="img " src="../../../images/注册信息填写/u22.png"/>
+  <!-- Unnamed () -->
+  <view id="u23" class="text" style="display: none; visibility: hidden">
+    <view><text></text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u24" class="ax_default sticky_1">
+  <image id="u24_img" class="img " src="../../../images/注册信息填写/u24.png"/>
+  <!-- Unnamed () -->
+  <view id="u25" class="text" style="visibility: visible;">
+    <view><text>请完善您的信息</text></view>
+  </view>
+</view>
+
+<!-- Unnamed (矩形) -->
+<view id="u26" class="ax_default primary_button" bindtap="setinformation">
+  <view id="u26_div" class=""></view>
+  <!-- Unnamed () -->
+  <view id="u27" class="text" style="visibility: visible;">
+    <view><text>确定</text></view>
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u28" class="ax_default">
+
+  <!-- Unnamed (文本框) -->
+  <view id="u29" class="ax_default text_field">
+    <input id="u29_input" bindinput="getpassword" type="text" value="{{password}}"/>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u30" class="ax_default label">
+    <view id="u30_div" class=""></view>
+    <!-- Unnamed () -->
+    <view id="u31" class="text" style="visibility: visible;">
+      <view><text>密码</text></view>
+    </view>
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u32" class="ax_default">
+
+  <!-- Unnamed (文本框) -->
+  <view id="u33" class="ax_default text_field">
+    <input id="u33_input" bindinput="getname" type="text" value="{{name}}"/>
+  </view>
+
+  <!-- Unnamed (矩形) -->
+  <view id="u34" class="ax_default label">
+    <view id="u34_div" class=""></view>
+    <!-- Unnamed () -->
+    <view id="u35" class="text" style="visibility: visible;">
+      <view><text>昵称</text></view>
+    </view>
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u36" class="ax_default">
+
+  <!-- Unnamed (矩形) -->
+  <view id="u37" class="ax_default label">
+    <view id="u37_div" class=""></view>
+    <!-- Unnamed () -->
+    <view id="u38" class="text" style="visibility: visible;">
+      <view><text>性别</text></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (下拉列表框) -->
+  <view id="u39" class="ax_default droplist">
+    <label id="u39_input"  style="position: absolute; left: 0rpx;">
+        <radio color="green" value="male" checked="{{sex}}" bindtap="changesex"> 男</radio>
+        <radio color="green" value="female" checked="{{!sex}}" bindtap="changesex"> 女</radio>
+    </label>
+    
+  </view>
+</view>
+
+<!-- Unnamed (组合) -->
+<view id="u40" class="ax_default">
+
+  <!-- Unnamed (矩形) -->
+  <view id="u41" class="ax_default label">
+    <view id="u41_div" class=""></view>
+    <!-- Unnamed () -->
+    <view id="u42" class="text" style="visibility: visible;">
+      <view><text>学院</text></view>
+    </view>
+  </view>
+
+  <!-- Unnamed (下拉列表框) -->
+  <view id="u43" class="ax_default droplist">
+    <view id="u43_input" class="">
+    <input type="text" bindinput="getcollege" value="{{college}}"/>
+    </view>
+    </view>
+</view>
+</view>
+</view>
