@@ -97,10 +97,12 @@ Page({
         //     fail: () => {},
         //     complete: () => {},
         // });
-        this.data.UID=wx.getStorageSync('openId');
+        this.setData({
+            UID:wx.getStorageSync('openId'),
+        })
     var that=this;
     wx.request({
-        url: 'http://110.40.186.46:8088/user/getuserbyname', 
+        url: 'http://www.fcard.site:8088/user/getuserbyname', 
         method: 'GET',
         data: {
           UID:this.data.UID,
