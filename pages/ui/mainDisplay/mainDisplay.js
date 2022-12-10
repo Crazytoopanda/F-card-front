@@ -7,6 +7,16 @@ Page({
     data: {
 
     },
+    gotosetting: function(){
+        wx.navigateTo({
+          url: "../../../pages/ui/setting/setting",
+          })
+      },
+    gotousermassage: function(){
+        wx.navigateTo({
+          url: "../../../pages/ui/usermassage/usermassage",
+          })
+      },
 
     /**
      * 用户点击商店

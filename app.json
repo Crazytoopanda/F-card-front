@@ -6,6 +6,7 @@
     "pages/ui/mainDisplay/mainDisplay",
     "pages/ui/setting/setting",
     "pages/ui/usermassage/usermassage",
+    "pages/ui/information/information",
     "pages/battle/chooseLevel/chooseLevel",
     "pages/battle/battleStart/battleStart",
     "pages/battle/outQuesStage1/outQuesStage1",
