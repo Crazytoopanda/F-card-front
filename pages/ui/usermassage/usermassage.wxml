@@ -21,7 +21,7 @@
 <view id="u132" class="ax_default label">
   <view id="u132_div" class=""></view>
   <view id="u132_text" class="text ">
-    <view><text>用户信息</text></view>
+    <!-- <view><text>用户信息</text></view> -->
   </view>
 </view>
 
