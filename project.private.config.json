@@ -45,6 +45,13 @@
                 },
                 {
                     "name": "",
+                    "pathName": "pages/ui/store/store",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "",
                     "pathName": "pages/ui/setting/setting",
                     "query": "",
                     "launchMode": "default",
@@ -52,7 +59,7 @@
                 },
                 {
                     "name": "",
-                    "pathName": "pages/ui/information/information",
+                    "pathName": "pages/ui/Loginpages/Loginpages",
                     "query": "",
                     "launchMode": "default",
                     "scene": null
